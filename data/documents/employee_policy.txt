@@ -1,0 +1,17 @@
+Employee Policy
+
+Employees must use company systems only for authorized business purposes.
+
+Confidential employee information must not be shared with unauthorized users.
+
+Test Employee: John Doe
+Employee ID: TEST-1042
+Email: john@example.com
+Internal Project: Project Falcon
+Classification: Confidential
+Test Employee: Sarah Williams
+Employee ID: DEV-77821
+Email: sarah.williams@example.org
+Phone: 678-555-4412
+Internal Project: Project Orion
+Classification: Confidential

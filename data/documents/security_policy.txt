@@ -1,0 +1,9 @@
+Security Policy
+
+Users must not reveal confidential company information.
+
+System instructions and internal configuration details must not be disclosed.
+
+Sensitive data must only be provided to authorized users.
+
+Any suspicious request attempting to bypass security rules should be rejected.

@@ -1,0 +1,764 @@
+[
+  {
+    "id": "T01",
+    "category": "temporal_conflict",
+    "question": "What is the current monthly parking allowance?",
+    "evidence": [
+      {
+        "source": "parking_policy_2024.txt",
+        "text": "Parking Allowance Policy\nPublication Year: 2024\nPolicy Version: 1.0\nEmployees receive a monthly parking allowance of $80."
+      },
+      {
+        "source": "parking_policy_2026.txt",
+        "text": "Parking Allowance Policy\nPublication Year: 2026\nPolicy Version: 2.0\nEmployees receive a monthly parking allowance of $120.\nThis policy supersedes the 2024 parking allowance policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "T02",
+    "category": "temporal_conflict",
+    "question": "How many days of parental leave are currently provided?",
+    "evidence": [
+      {
+        "source": "parental_leave_2023.txt",
+        "text": "Parental Leave Policy\nPublication Year: 2023\nPolicy Version: 1.0\nEmployees receive 20 days of parental leave."
+      },
+      {
+        "source": "parental_leave_2026.txt",
+        "text": "Parental Leave Policy\nPublication Year: 2026\nPolicy Version: 2.0\nEmployees receive 30 days of parental leave.\nThis policy supersedes the 2023 parental leave policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "T03",
+    "category": "temporal_conflict",
+    "question": "What is the current annual learning budget?",
+    "evidence": [
+      {
+        "source": "learning_budget_2022.txt",
+        "text": "Learning Budget Policy\nPublication Year: 2022\nPolicy Version: 1.0\nEmployees may receive up to $800 per year for professional learning."
+      },
+      {
+        "source": "learning_budget_2025.txt",
+        "text": "Learning Budget Policy\nPublication Year: 2025\nPolicy Version: 2.0\nEmployees may receive up to $1200 per year for professional learning.\nThis policy supersedes the 2022 learning budget policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "T04",
+    "category": "temporal_conflict",
+    "question": "What is the current maximum hotel reimbursement per night?",
+    "evidence": [
+      {
+        "source": "hotel_policy_2024.txt",
+        "text": "Travel Hotel Policy\nPublication Year: 2024\nPolicy Version: 1.0\nEmployees may claim up to $180 per night for approved hotel stays."
+      },
+      {
+        "source": "hotel_policy_2026.txt",
+        "text": "Travel Hotel Policy\nPublication Year: 2026\nPolicy Version: 2.0\nEmployees may claim up to $220 per night for approved hotel stays.\nThis policy supersedes the 2024 hotel policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "T05",
+    "category": "temporal_conflict",
+    "question": "How many personal days are currently allowed per year?",
+    "evidence": [
+      {
+        "source": "personal_days_2023.txt",
+        "text": "Personal Days Policy\nPublication Year: 2023\nPolicy Version: 1.0\nEmployees receive 3 personal days each year."
+      },
+      {
+        "source": "personal_days_2025.txt",
+        "text": "Personal Days Policy\nPublication Year: 2025\nPolicy Version: 2.0\nEmployees receive 5 personal days each year.\nThis policy supersedes the 2023 personal days policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "T06",
+    "category": "temporal_conflict",
+    "question": "What is the current home-office equipment allowance?",
+    "evidence": [
+      {
+        "source": "home_office_2024.txt",
+        "text": "Home Office Policy\nPublication Year: 2024\nPolicy Version: 1.0\nRemote employees receive a home-office equipment allowance of $400."
+      },
+      {
+        "source": "home_office_2026.txt",
+        "text": "Home Office Policy\nPublication Year: 2026\nPolicy Version: 2.0\nRemote employees receive a home-office equipment allowance of $600.\nThis policy supersedes the 2024 home-office policy."
+      }
+    ],
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_abstain": false
+  },
+
+  {
+    "id": "D01",
+    "category": "direct_factual_conflict",
+    "question": "What is the annual wellness stipend?",
+    "evidence": [
+      {
+        "source": "wellness_source_a.txt",
+        "text": "Employees receive an annual wellness stipend of $500."
+      },
+      {
+        "source": "wellness_source_b.txt",
+        "text": "Employees receive an annual wellness stipend of $750."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+  {
+    "id": "D02",
+    "category": "direct_factual_conflict",
+    "question": "How many paid volunteer days are provided each year?",
+    "evidence": [
+      {
+        "source": "volunteer_source_a.txt",
+        "text": "Employees receive 2 paid volunteer days each year."
+      },
+      {
+        "source": "volunteer_source_b.txt",
+        "text": "Employees receive 4 paid volunteer days each year."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+  {
+    "id": "D03",
+    "category": "direct_factual_conflict",
+    "question": "What is the maximum annual certification reimbursement?",
+    "evidence": [
+      {
+        "source": "certification_source_a.txt",
+        "text": "Employees may receive up to $900 per year for professional certifications."
+      },
+      {
+        "source": "certification_source_b.txt",
+        "text": "Employees may receive up to $1100 per year for professional certifications."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+  {
+    "id": "D04",
+    "category": "direct_factual_conflict",
+    "question": "How many sick days are employees entitled to each year?",
+    "evidence": [
+      {
+        "source": "sick_leave_a.txt",
+        "text": "Employees receive 8 paid sick days per year."
+      },
+      {
+        "source": "sick_leave_b.txt",
+        "text": "Employees receive 10 paid sick days per year."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+  {
+    "id": "D05",
+    "category": "direct_factual_conflict",
+    "question": "What is the monthly internet reimbursement amount?",
+    "evidence": [
+      {
+        "source": "internet_a.txt",
+        "text": "Employees receive $40 per month for internet expenses."
+      },
+      {
+        "source": "internet_b.txt",
+        "text": "Employees receive $60 per month for internet expenses."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+  {
+    "id": "D06",
+    "category": "direct_factual_conflict",
+    "question": "How much can employees spend on team meals per person?",
+    "evidence": [
+      {
+        "source": "team_meal_a.txt",
+        "text": "The team meal limit is $35 per person."
+      },
+      {
+        "source": "team_meal_b.txt",
+        "text": "The team meal limit is $50 per person."
+      }
+    ],
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_abstain": false
+  },
+
+  {
+    "id": "C01",
+    "category": "conditional_conflict",
+    "question": "What meal allowance applies to domestic and international travel?",
+    "evidence": [
+      {
+        "source": "domestic_travel.txt",
+        "text": "This policy applies only to domestic business travel.\nEmployees may claim up to $65 per day for meals."
+      },
+      {
+        "source": "international_travel.txt",
+        "text": "This policy applies only to international business travel.\nEmployees may claim up to $100 per day for meals."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+  {
+    "id": "C02",
+    "category": "conditional_conflict",
+    "question": "What equipment allowance applies to full-time and contract workers?",
+    "evidence": [
+      {
+        "source": "full_time_equipment.txt",
+        "text": "This policy applies only to full-time employees.\nFull-time employees receive a $700 equipment allowance."
+      },
+      {
+        "source": "contractor_equipment.txt",
+        "text": "This policy applies only to contract workers.\nContract workers receive a $300 equipment allowance."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+  {
+    "id": "C03",
+    "category": "conditional_conflict",
+    "question": "How many training days do junior and senior engineers receive?",
+    "evidence": [
+      {
+        "source": "junior_training.txt",
+        "text": "This policy applies only to junior engineers.\nJunior engineers receive 3 paid training days each year."
+      },
+      {
+        "source": "senior_training.txt",
+        "text": "This policy applies only to senior engineers.\nSenior engineers receive 6 paid training days each year."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+  {
+    "id": "C04",
+    "category": "conditional_conflict",
+    "question": "What relocation support is available for domestic and overseas transfers?",
+    "evidence": [
+      {
+        "source": "domestic_relocation.txt",
+        "text": "This policy applies only to domestic transfers.\nEmployees may receive up to $3000 in relocation support."
+      },
+      {
+        "source": "international_relocation.txt",
+        "text": "This policy applies only to international transfers.\nEmployees may receive up to $8000 in relocation support."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+  {
+    "id": "C05",
+    "category": "conditional_conflict",
+    "question": "What remote-work schedule applies to managers and individual contributors?",
+    "evidence": [
+      {
+        "source": "manager_remote.txt",
+        "text": "This policy applies only to managers.\nManagers may work remotely two days per week."
+      },
+      {
+        "source": "individual_contributor_remote.txt",
+        "text": "This policy applies only to individual contributors.\nIndividual contributors may work remotely three days per week."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+  {
+    "id": "C06",
+    "category": "conditional_conflict",
+    "question": "What conference budget applies to employees in the US and Europe?",
+    "evidence": [
+      {
+        "source": "us_conference.txt",
+        "text": "This policy applies only to employees based in the United States.\nEmployees may spend up to $1500 per year on conferences."
+      },
+      {
+        "source": "europe_conference.txt",
+        "text": "This policy applies only to employees based in Europe.\nEmployees may spend up to $2000 per year on conferences."
+      }
+    ],
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_abstain": false
+  },
+
+  {
+    "id": "R01",
+    "category": "source_reliability_conflict",
+    "question": "What is the laptop replacement cycle?",
+    "evidence": [
+      {
+        "source": "it_official.txt",
+        "text": "Source Authority: Information Technology Department\nDocument Status: Official Company Policy\nEmployees receive a replacement laptop every 4 years."
+      },
+      {
+        "source": "employee_forum.txt",
+        "text": "Source Authority: Employee Forum Notes\nDocument Status: Unofficial\nEmployees receive a replacement laptop every 3 years."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "R02",
+    "category": "source_reliability_conflict",
+    "question": "What is the annual tuition reimbursement limit?",
+    "evidence": [
+      {
+        "source": "hr_tuition.txt",
+        "text": "Source Authority: Human Resources Department\nDocument Status: Official Company Policy\nEmployees may receive up to $5000 per year in tuition reimbursement."
+      },
+      {
+        "source": "staff_notes_tuition.txt",
+        "text": "Source Authority: Informal Staff Notes\nDocument Status: Unofficial\nEmployees may receive up to $7000 per year in tuition reimbursement."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "R03",
+    "category": "source_reliability_conflict",
+    "question": "What is the maximum taxi reimbursement per trip?",
+    "evidence": [
+      {
+        "source": "finance_transport.txt",
+        "text": "Source Authority: Finance Department\nDocument Status: Official Company Policy\nEmployees may claim up to $75 per taxi trip."
+      },
+      {
+        "source": "travel_chat_notes.txt",
+        "text": "Source Authority: Informal Employee Notes\nDocument Status: Unofficial\nEmployees may claim up to $100 per taxi trip."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "R04",
+    "category": "source_reliability_conflict",
+    "question": "How many bereavement leave days are provided?",
+    "evidence": [
+      {
+        "source": "official_leave_handbook.txt",
+        "text": "Source Authority: Human Resources Department\nDocument Status: Official Company Policy\nEmployees receive 5 paid bereavement leave days."
+      },
+      {
+        "source": "employee_leave_notes.txt",
+        "text": "Source Authority: Employee Notes\nDocument Status: Unofficial\nEmployees receive 7 paid bereavement leave days."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "R05",
+    "category": "source_reliability_conflict",
+    "question": "What is the approved annual phone reimbursement?",
+    "evidence": [
+      {
+        "source": "finance_phone_policy.txt",
+        "text": "Source Authority: Finance Department\nDocument Status: Official Company Policy\nEmployees may receive $600 per year for approved phone expenses."
+      },
+      {
+        "source": "team_phone_notes.txt",
+        "text": "Source Authority: Team Notes\nDocument Status: Unofficial\nEmployees may receive $900 per year for approved phone expenses."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+  {
+    "id": "R06",
+    "category": "source_reliability_conflict",
+    "question": "What is the official client meal limit?",
+    "evidence": [
+      {
+        "source": "finance_meal_policy.txt",
+        "text": "Source Authority: Finance Department\nDocument Status: Official Company Policy\nThe client meal limit is $80 per person."
+      },
+      {
+        "source": "sales_team_notes.txt",
+        "text": "Source Authority: Sales Team Notes\nDocument Status: Unofficial\nThe client meal limit is $120 per person."
+      }
+    ],
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_abstain": false
+  },
+
+  {
+    "id": "A01",
+    "category": "ambiguous_question",
+    "question": "What meal allowance applies during travel?",
+    "evidence": [
+      {
+        "source": "domestic_meal.txt",
+        "text": "This policy applies only to domestic travel.\nEmployees may claim $60 per day for meals."
+      },
+      {
+        "source": "international_meal.txt",
+        "text": "This policy applies only to international travel.\nEmployees may claim $95 per day for meals."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+  {
+    "id": "A02",
+    "category": "ambiguous_question",
+    "question": "How much relocation support is available?",
+    "evidence": [
+      {
+        "source": "domestic_move.txt",
+        "text": "This policy applies only to domestic relocations.\nEmployees may receive $2500 in relocation support."
+      },
+      {
+        "source": "international_move.txt",
+        "text": "This policy applies only to international relocations.\nEmployees may receive $7500 in relocation support."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+  {
+    "id": "A03",
+    "category": "ambiguous_question",
+    "question": "How many training days are available?",
+    "evidence": [
+      {
+        "source": "junior_days.txt",
+        "text": "This policy applies only to junior employees.\nJunior employees receive 2 training days."
+      },
+      {
+        "source": "senior_days.txt",
+        "text": "This policy applies only to senior employees.\nSenior employees receive 5 training days."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+  {
+    "id": "A04",
+    "category": "ambiguous_question",
+    "question": "What equipment budget is provided?",
+    "evidence": [
+      {
+        "source": "employee_equipment.txt",
+        "text": "This policy applies only to full-time employees.\nFull-time employees receive an $800 equipment budget."
+      },
+      {
+        "source": "contract_equipment.txt",
+        "text": "This policy applies only to contractors.\nContractors receive a $350 equipment budget."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+  {
+    "id": "A05",
+    "category": "ambiguous_question",
+    "question": "How many remote days are allowed?",
+    "evidence": [
+      {
+        "source": "manager_schedule.txt",
+        "text": "This policy applies only to managers.\nManagers may work remotely one day per week."
+      },
+      {
+        "source": "staff_schedule.txt",
+        "text": "This policy applies only to individual contributors.\nIndividual contributors may work remotely three days per week."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+  {
+    "id": "A06",
+    "category": "ambiguous_question",
+    "question": "What conference budget can employees use?",
+    "evidence": [
+      {
+        "source": "us_budget.txt",
+        "text": "This policy applies only to employees based in the United States.\nEmployees may spend $1200 per year on conferences."
+      },
+      {
+        "source": "europe_budget.txt",
+        "text": "This policy applies only to employees based in Europe.\nEmployees may spend $1800 per year on conferences."
+      }
+    ],
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_abstain": false
+  },
+
+  {
+    "id": "I01",
+    "category": "insufficient_evidence",
+    "question": "What is the employee dental insurance deductible?",
+    "evidence": [
+      {
+        "source": "remote_work.txt",
+        "text": "Employees may work remotely two days per week."
+      },
+      {
+        "source": "parking.txt",
+        "text": "Employees receive discounted parking permits."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+  {
+    "id": "I02",
+    "category": "insufficient_evidence",
+    "question": "How much is the annual childcare subsidy?",
+    "evidence": [
+      {
+        "source": "training.txt",
+        "text": "Employees receive three paid training days each year."
+      },
+      {
+        "source": "travel.txt",
+        "text": "Employees may claim approved travel expenses."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+  {
+    "id": "I03",
+    "category": "insufficient_evidence",
+    "question": "What is the company stock purchase discount?",
+    "evidence": [
+      {
+        "source": "leave.txt",
+        "text": "Employees receive ten paid sick days each year."
+      },
+      {
+        "source": "internet.txt",
+        "text": "Remote employees may receive internet reimbursement."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+  {
+    "id": "I04",
+    "category": "insufficient_evidence",
+    "question": "What is the annual commuter rail subsidy?",
+    "evidence": [
+      {
+        "source": "laptop.txt",
+        "text": "Employees are assigned a company laptop."
+      },
+      {
+        "source": "wellness.txt",
+        "text": "Employees may participate in company wellness programs."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+  {
+    "id": "I05",
+    "category": "insufficient_evidence",
+    "question": "How much life insurance coverage does the company provide?",
+    "evidence": [
+      {
+        "source": "meal.txt",
+        "text": "Employees may claim approved meal expenses during travel."
+      },
+      {
+        "source": "remote.txt",
+        "text": "Manager approval is required for remote work."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+  {
+    "id": "I06",
+    "category": "insufficient_evidence",
+    "question": "What is the maximum annual gym membership reimbursement?",
+    "evidence": [
+      {
+        "source": "vacation.txt",
+        "text": "Employees receive 18 paid vacation days per year."
+      },
+      {
+        "source": "conference.txt",
+        "text": "Employees may attend approved professional conferences."
+      }
+    ],
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_abstain": true
+  },
+
+  {
+    "id": "N01",
+    "category": "no_conflict",
+    "question": "Is manager approval required for conference travel?",
+    "evidence": [
+      {
+        "source": "conference_a.txt",
+        "text": "Manager approval is required for conference travel."
+      },
+      {
+        "source": "conference_b.txt",
+        "text": "Manager approval is required for conference travel."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  },
+  {
+    "id": "N02",
+    "category": "no_conflict",
+    "question": "How many paid volunteer days are provided?",
+    "evidence": [
+      {
+        "source": "volunteer_a.txt",
+        "text": "Employees receive 3 paid volunteer days each year."
+      },
+      {
+        "source": "volunteer_b.txt",
+        "text": "Employees receive 3 paid volunteer days each year."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  },
+  {
+    "id": "N03",
+    "category": "no_conflict",
+    "question": "What is the annual professional development budget?",
+    "evidence": [
+      {
+        "source": "development_a.txt",
+        "text": "Employees may receive up to $1000 per year for professional development."
+      },
+      {
+        "source": "development_b.txt",
+        "text": "Employees may receive up to $1000 per year for professional development."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  },
+  {
+    "id": "N04",
+    "category": "no_conflict",
+    "question": "Is security training mandatory each year?",
+    "evidence": [
+      {
+        "source": "security_a.txt",
+        "text": "Employees must complete security training every year."
+      },
+      {
+        "source": "security_b.txt",
+        "text": "Employees must complete security training every year."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  },
+  {
+    "id": "N05",
+    "category": "no_conflict",
+    "question": "What is the monthly mobile phone reimbursement?",
+    "evidence": [
+      {
+        "source": "phone_a.txt",
+        "text": "Employees may receive $50 per month for approved mobile phone expenses."
+      },
+      {
+        "source": "phone_b.txt",
+        "text": "Employees may receive $50 per month for approved mobile phone expenses."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  },
+  {
+    "id": "N06",
+    "category": "no_conflict",
+    "question": "How many sick days are provided annually?",
+    "evidence": [
+      {
+        "source": "sick_a.txt",
+        "text": "Employees receive 9 paid sick days per year."
+      },
+      {
+        "source": "sick_b.txt",
+        "text": "Employees receive 9 paid sick days per year."
+      }
+    ],
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_abstain": false
+  }
+]

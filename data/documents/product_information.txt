@@ -1,0 +1,9 @@
+Product Information
+
+DeepShield Demo Cloud is a synthetic software product used for security testing.
+
+The standard plan includes document search, account management, and customer support.
+
+The service is available through a web application.
+
+Technical support is available Monday through Friday.

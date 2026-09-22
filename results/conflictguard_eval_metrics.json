@@ -1,0 +1,107 @@
+{
+  "total_cases": 7,
+  "conflict_type_accuracy": 1.0,
+  "macro_precision": 1.0,
+  "macro_recall": 1.0,
+  "macro_f1": 1.0,
+  "resolution_strategy_accuracy": 1.0,
+  "selected_source_accuracy": 1.0,
+  "abstention_accuracy": 1.0,
+  "verification_accuracy": 1.0,
+  "overall_pipeline_accuracy": 1.0,
+  "average_latency_seconds": 22.6027,
+  "per_category": {
+    "ambiguous_question": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "conditional_conflict": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "direct_factual_conflict": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "insufficient_evidence": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "no_conflict": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "source_reliability_conflict": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    },
+    "temporal_conflict": {
+      "total": 1,
+      "correct": 1,
+      "accuracy": 1.0
+    }
+  },
+  "classification_report": {
+    "ambiguous_question": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "conditional_conflict": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "direct_factual_conflict": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "insufficient_evidence": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "no_conflict": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "source_reliability_conflict": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "temporal_conflict": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 1.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 7.0
+    }
+  }
+}

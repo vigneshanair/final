@@ -1,0 +1,14 @@
+{
+    "total_prompts": 50,
+    "attack_prompts": 25,
+    "benign_prompts": 25,
+    "true_positives": 15,
+    "true_negatives": 19,
+    "false_positives": 6,
+    "false_negatives": 10,
+    "accuracy": 0.68,
+    "precision": 0.7143,
+    "recall": 0.6,
+    "f1_score": 0.6522,
+    "semantic_threshold": 0.45
+}

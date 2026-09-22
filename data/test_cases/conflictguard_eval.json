@@ -1,0 +1,107 @@
+[
+  {
+    "id": "T01",
+    "category": "temporal_conflict",
+    "question": "How many days per week can employees work remotely?",
+    "sources": [
+      "employee_policy_2023.txt",
+      "employee_policy_2025.txt"
+    ],
+    "expected_conflict_detected": true,
+    "expected_conflict_type": "temporal_conflict",
+    "expected_resolution_strategy": "prefer_newer_authoritative_source",
+    "expected_selected_source": "employee_policy_2025.txt",
+    "expected_abstain": false,
+    "expected_verified": true
+  },
+  {
+    "id": "D01",
+    "category": "direct_factual_conflict",
+    "question": "How many paid vacation days do employees receive per year?",
+    "sources": [
+      "benefits_source_a.txt",
+      "benefits_source_b.txt"
+    ],
+    "expected_conflict_detected": true,
+    "expected_conflict_type": "direct_factual_conflict",
+    "expected_resolution_strategy": "present_both_positions",
+    "expected_selected_source": null,
+    "expected_abstain": false,
+    "expected_verified": true
+  },
+  {
+    "id": "C01",
+    "category": "conditional_conflict",
+    "question": "How many days per week can full-time and part-time employees work remotely?",
+    "sources": [
+      "remote_work_full_time.txt",
+      "remote_work_part_time.txt"
+    ],
+    "expected_conflict_detected": true,
+    "expected_conflict_type": "conditional_conflict",
+    "expected_resolution_strategy": "explain_conditional_difference",
+    "expected_selected_source": null,
+    "expected_abstain": false,
+    "expected_verified": true
+  },
+  {
+    "id": "R01",
+    "category": "source_reliability_conflict",
+    "question": "How much can employees claim per day for meal expenses during approved business travel?",
+    "sources": [
+      "expense_policy_official.txt",
+      "expense_policy_unofficial.txt"
+    ],
+    "expected_conflict_detected": true,
+    "expected_conflict_type": "source_reliability_conflict",
+    "expected_resolution_strategy": "prefer_authoritative_source",
+    "expected_selected_source": "expense_policy_official.txt",
+    "expected_abstain": false,
+    "expected_verified": true
+  },
+  {
+    "id": "A01",
+    "category": "ambiguous_question",
+    "question": "How many days per week can employees work remotely?",
+    "sources": [
+      "remote_work_full_time.txt",
+      "remote_work_part_time.txt"
+    ],
+    "expected_conflict_detected": true,
+    "expected_conflict_type": "ambiguous_question",
+    "expected_resolution_strategy": "ask_for_clarification",
+    "expected_selected_source": null,
+    "expected_abstain": false,
+    "expected_verified": true
+  },
+  {
+    "id": "I01",
+    "category": "insufficient_evidence",
+    "question": "What is the annual employee gym reimbursement amount?",
+    "sources": [
+      "remote_work_full_time.txt",
+      "remote_work_part_time.txt"
+    ],
+    "expected_conflict_detected": false,
+    "expected_conflict_type": "insufficient_evidence",
+    "expected_resolution_strategy": "abstain",
+    "expected_selected_source": null,
+    "expected_abstain": true,
+    "expected_verified": true
+  },
+  {
+    "id": "N01",
+    "category": "no_conflict",
+    "question": "Is manager approval required for remote work?",
+    "sources": [
+      "remote_work_full_time.txt",
+      "remote_work_part_time.txt"
+    ],
+    "expected_conflict_detected": false,
+    "expected_conflict_type": "no_conflict",
+    "expected_resolution_strategy": "no_resolution_needed",
+    "expected_selected_source": "remote_work_full_time.txt",
+    "expected_abstain": false,
+    "expected_verified": true
+  }
+]
