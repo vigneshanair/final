@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "EXT001",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "what is the most viewed video on youtube ever",
+    "reference_answer": "Baby Shark Dance",
+    "evidence": [
+      {
+        "source": "List of most-viewed YouTube videos - Wikipedia",
+        "text": "Publication Year: 2025\nList of most-viewed YouTube videos\nYouTube is an American video-sharing website headquartered in San Bruno, California. The site indicates view counts of each uploaded video, making it possible to keep track of the most viewed, many of which continue to exist while others are no longer available on the site. Although the most-viewed were initially viral videos uploaded by amateur content creators, such as \"Evolution of Dance\" and \"Charlie Bit My Finger\", they have increasingly become music videos produced on behalf of professional recording artists. Since Lady Gaga's \"Bad Romance\" in 2009, every video that has reached the top of the \"most-viewed YouTube videos\" list has been a music video.\n In November 2005, a Nike advertisement featuring Brazilian football player Ronaldinho became the...",
+        "url": "https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos"
+      },
+      {
+        "source": "Top 10 most-watched videos on YouTube globally as of 2024",
+        "text": "Top 10 most-viewed videos on YouTube in 2024: Baby Shark Dance, a South Korean video poem, has become the highest-watched video on YouTube with 15.17 billion views.\n Most viewed YouTube videos of all time 2024: YouTube\u2014the online video-sharing platform owned by Google\u2014has not only redefined entertainment in the digital age but has captured millions of hearts globally.\n YouTube continues to dominate as the most popular video service globally, ahead of Instagram, TikTok, or Netflix, according to New Omdia research.\n Having the largest collection of video content in the world, YouTube allows users to explore a vast array of channels, watch, like, and share their favourite videos, and subscribe to those they enjoy most.\n With millions of new videos uploaded daily, trends are constantly...",
+        "url": "https://indianexpress.com/article/trending/top-10-listing/top-10-most-watched-videos-on-youtube-globally-as-of-2024-9644368/"
+      }
+    ]
+  },
+  {
+    "id": "EXT002",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "What treatments exist for Alzheimer's disease?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Alzheimer's disease - Treatment - NHS",
+        "text": "Publication Year: 2025\nTreatment\n-\nAlzheimer's disease\nContents\nThere's currently no cure for Alzheimer's disease. But there is medicine available that can temporarily reduce the symptoms.\n Support is also available to help someone with the condition, and their family, cope with everyday life.\n Medicines\nA number of medicines may be prescribed for Alzheimer's disease to help temporarily improve some symptoms.\n The main medicines are:\nAcetylcholinesterase (AChE) inhibitors\nThese medicines increase levels of acetylcholine, a substance in the brain that helps nerve cells communicate with each other.\n They can currently only be prescribed by specialists, such as psychiatrists or neurologists.\n They may be prescribed by a GP on the advice of a specialist, or by GPs that have particular expertise in their use.\n...",
+        "url": "https://www.nhs.uk/conditions/alzheimers-disease/treatment/"
+      },
+      {
+        "source": "Alzheimer's disease - Diagnosis and treatment - Mayo Clinic",
+        "text": "Sometimes other medicines such as antidepressants may be prescribed to help manage the behavioral symptoms linked to Alzheimer's disease.\n Creating a safe and supportive environment\nAn important part of any treatment plan is to adapt to the needs of a person with Alzheimer's disease. Create routine habits and cut down on tasks that require memory. These steps can make life much easier.\n These are ways to support a person's sense of well-being and ability to function:\nKeep keys, wallets, mobile phones and other valuables in the same place at home so they don't become lost.\n Keep medicines in a secure location. Use a daily checklist to keep track of doses.\n Arrange for finances to be on automatic payment and automatic deposit.\n Have the person with Alzheimer's carry a mobile phone with...",
+        "url": "https://www.mayoclinic.org/diseases-conditions/alzheimers-disease/diagnosis-treatment/drc-20350453"
+      },
+      {
+        "source": "Treatments for Alzheimer's & Dementia",
+        "text": "Publication Year: 2025\nTreatments for Alzheimer's\nTreatments for Alzheimer's\nThere's no cure for Alzheimer\u2019s, but there are treatments that may change disease progression, and drug and non-drug options that may help treat symptoms. Understanding available options can help individuals living with the disease and their caregivers to cope with symptoms and improve quality of life.",
+        "url": "https://www.alz.org/alzheimers-dementia/treatments"
+      }
+    ]
+  },
+  {
+    "id": "EXT003",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "when did dragon ball z air",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Dragon Ball Z - Wikipedia",
+        "text": "Dragon Ball Z originally aired on the British Comedy Network in Fall 1998.[40]\n The series was also available on the Funimation video streaming service (formerly FunimationNOW) upon its launch in 2016. In March 2022, Dragon Ball Z was added to Crunchyroll, a service that Funimation acquired a year before, which in turn was acquired in 2018 by its current parent company, Sony Pictures Television.[41]\nDragon Ball Z Kai\nIn February 2009, Toei Animation announced that it would begin broadcasting a remastered version of Dragon Ball Z as part of the series's 20th anniversary celebrations.[42] The series premiered on Fuji TV in Japan on April 5, 2009, under the title Dragon Ball Kai. The ending suffix Kai (\u6539(\u304b\u3044)) in the name means \"updated\" or \"altered\" and reflects the improvements and...",
+        "url": "https://en.wikipedia.org/wiki/Dragon_Ball_Z"
+      },
+      {
+        "source": "List of Dragon Ball Z episodes - Wikipedia",
+        "text": "The first volume of the individual DVD compilations of Dragon Ball Z released in Japan.\nDragon Ball Z (\u30c9\u30e9\u30b4\u30f3\u30dc\u30fc\u30eb\u30bc\u30c3\u30c8, Doragon B\u014dru Zetto, commonly abbreviated as DBZ) is the long-running anime sequel to the Dragon Ball TV series, adapted from the final twenty-six volumes of the Dragon Ballmanga written by Akira Toriyama. The manga portion of the series debuted in Weekly Sh\u014dnen Jump on October 5, 1988, and lasted until 1995; the anime adaptation premiered in Japan on Fuji Television on April 26, 1989, taking over its predecessor's time slot, and ran until its end on January 31, 1996, lasting 291 episodes in Japan, and 276 episodes in the United States originally, although all 291 episodes were later broadcast when content from the first 67 episodes was restored.\n Series overview\n In Japan,...",
+        "url": "https://en.wikipedia.org/wiki/List_of_Dragon_Ball_Z_episodes"
+      }
+    ]
+  },
+  {
+    "id": "EXT004",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "Can gene therapy reverse the aging process?",
+    "reference_answer": "Yes",
+    "evidence": [
+      {
+        "source": "Partial genetic reprogramming might extend lifespan and reverse ...",
+        "text": "*Important notice: bioRxiv publishes preliminary scientific reports that are not peer-reviewed and, therefore, should not be regarded as conclusive, guide clinical practice/health-related behavior, or treated as established information.\n Background\nThe rapidly growing world population is increasing the societal burden. Moreover, aging raises the threat of contracting several fatal human diseases. Thus, it is urgent and crucial to identify anti-aging interventions to reverse or defer the aging process.\n Although longevity, i.e., increasing the \u2018lifespan,\u2019 is a feasible goal, whose golden standard biomarker is time to death. However, it does not improve their quality of life or health span.\n On the contrary, age reversal could restore the aging effects at the genetic level and increase...",
+        "url": "https://www.news-medical.net/news/20230119/Partial-genetic-reprogramming-might-extend-lifespan-and-reverse-aging-in-old-mice.aspx"
+      },
+      {
+        "source": "'Chemical cocktail' may reverse aging in just 1 week | Fortune Well",
+        "text": "Harvard scientists have identified a drug combo that may reverse aging in just one week: \u2018A step towards affordable whole-body rejuvenation\u2019\nHarvard geneticist David Sinclair finds a group of \u201cchemical cocktails\u201d reversed aging in a one-week animal study, but experts say the results are preliminary.\n Getty Images\nHarvard researchers found a \u201cchemical cocktail\u201d that helped reverse aging in mice within a week by rejuvenating old cells within muscles, tissues, and some organs.\n Aging and longevity expert David Sinclair, who is a researcher in the department of genetics and codirector of the Paul F. Glenn Center for Biology of Aging Research at Harvard Medical School, announced the findings on Twitter.\n \u201cWe\u2019ve previously shown age reversal is possible using gene therapy to turn on embryonic...",
+        "url": "https://fortune.com/well/2023/07/18/harvard-scientists-chemical-cocktail-may-reverse-aging-process-in-one-week/"
+      },
+      {
+        "source": "Reversing aging in the eye | Harvard Stem Cell Institute (HSCI)",
+        "text": "Harvard Stem Cell Institute (HSCI) scientists are part of a team that has successfully restored vision in mice by turning back the clock in aged eye cells in the retina to recapture youthful gene function.\n The team\u2019s work, published in the journal Nature, is the first demonstration that it may be possible to safely reprogram complex tissues, such as the nerve cells of the eye, to an earlier age. The researchers also successfully reversed vision loss in animals with a condition mimicking human glaucoma, a leading cause of blindness around the world. The achievement represents the first successful attempt to reverse glaucoma-induced vision loss, rather than merely stem its progression.\n If replicated through further studies, the approach could pave the way for therapies to promote tissue...",
+        "url": "https://hsci.harvard.edu/news/reversing-aging-eye"
+      }
+    ]
+  },
+  {
+    "id": "EXT005",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "Where do you go to get a mortgage loan?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Home Mortgage Loans from Bank of America",
+        "text": "Publication Year: 2025\nPlease contact us in order to discuss the specifics of your mortgage needs with one of our home loan specialists.\n We offer a wide range of loan options beyond the scope of this calculator, which is designed to provide results for the most popular loan scenarios. If you have flexible options, try lowering your purchase price, changing your down payment amount or entering a different ZIP code.\n Chart data is for illustrative purposes only and is subject to change without notice. Advertised rate, points and APR are based on a set of loan assumptions (refer Loan assumptions and disclosures above for important information). Your actual rate and APR may differ from chart data. Chart accuracy is not guaranteed and products may not be available for your situation. Monthly payments shown include...",
+        "url": "https://www.bankofamerica.com/mortgage/home-mortgage/"
+      },
+      {
+        "source": "Home Mortgage Loans & Financing | Wells Fargo",
+        "text": "Publication Year: 2025\nWe cannot apply less than the full amount. The down payment grant is available in certain areas. Eligibility for grant money will not be confirmed until underwriting is complete.\n Eligibility requirements:\nLoan type: The grant may be used with a Wells Fargo fixed-rate conventional loan only. Loan types, such as non-conforming loans, government loans, and conventional adjustable-rate mortgages are not eligible.\nIncome: The total qualifying income of all borrowers must be less than or equal to 120% of the area median income in the county where the subject property is located.\n Location: The borrower's verified current permanent residential address must be located in an eligible area or the subject property the borrower is purchasing must be located in an eligible area.\n Occupancy: The...",
+        "url": "https://www.wellsfargo.com/mortgage/"
+      },
+      {
+        "source": "Government-backed home loans and mortgage assistance | USAGov",
+        "text": "Publication Year: 2024\nThe Department of Veterans Affairs (VA) helps veterans, surviving spouses, and service members get home loans. These loans can help you purchase a home, refinance your mortgage, or finance home repairs.\n If you live in a rural area, you may qualify for home loans through the U.S. Department of Agriculture's (USDA) single-family housing programs. Each program has its own eligibility and application process.",
+        "url": "https://www.usa.gov/government-home-loans"
+      }
+    ]
+  },
+  {
+    "id": "EXT006",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "What is the minimum hourly wage in Massachusetts right now?",
+    "reference_answer": "$15",
+    "evidence": [
+      {
+        "source": "State Minimum Wage Laws | U.S. Department of Labor",
+        "text": "40 hours total in the workweek.\n The state adopts the federal minimum wage rate by reference if the federal rate is greater than the State rate.\n Compensating time in lieu of overtime is allowed upon written request by an employee of any county, charter county, consolidated local government, or urban-county government, including an employee of a\ncounty-elected official.\n Louisiana\nNo state minimum wage law.\nEmployers subject to the Fair Labor Standards Act must pay the current Federal minimum wage of $7.25 per hour.\n Maine\nIf the highest federal minimum wage is increased in excess of the State minimum wage in effect, then the State minimum wage will increase to the same amount, effective on the same date as the increase in the\nfederal minimum wage.\n A business not covered by the federal...",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage/state"
+      },
+      {
+        "source": "Massachusetts Minimum Wage in 2024 - Square",
+        "text": "As a small-business owner in the Bay State, we know you\u2019re eager to stay on top of current Massachusetts minimum wage increases. So we\u2019ve put together this quick guide with all the info you need to know about the Massachusetts minimum wage program and changes affecting the state in 2024 and beyond.\n What is the minimum wage in Massachusetts?\n The Massachusetts minimum wage increased to $15 per hour on January 1, 2023 for non-tipped employees, which is higher than the federal minimum wage of $7.25.\n The Massachusetts tipped employee minimum wage is a little different. If you run a business with tipped employees (defined as employees who receive more than $20 a month in tips), you may pay them a minimum wage of $6.75 per hour. However, employees must be informed of this hourly rate and must...",
+        "url": "https://squareup.com/us/en/the-bottom-line/managing-your-finances/guide-to-massachusetts-minimum-wage"
+      }
+    ]
+  },
+  {
+    "id": "EXT007",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "How many novels has Stephen King published?",
+    "reference_answer": "Over 60",
+    "evidence": [
+      {
+        "source": "Stephen King bibliography - Wikipedia",
+        "text": "An exclusive 40-page chapbook, released in June 2024, included an outline; screenplay; 18 behind-the-scenes photos from the award-winning short film and alternate posters. It is based on the story by Stephen King and Richard Chizmar. The Trapped screenplay was written by Chizmar for the 2019 short film of the same name. The chapbook, which is not for sale, became available as a condition through a limited-time e-mail offer from Cemetery Dance Publications when pre-ordering Chizmar's forthcoming novel, Memorials, due October 22, 2024.[needs update]",
+        "url": "https://en.wikipedia.org/wiki/Stephen_King_bibliography"
+      },
+      {
+        "source": "Stephen King Books in Order (Updated 2024) - BiblioLifestyle",
+        "text": "Stephen King Books in Order (Updated 2024)\nTake a trip through time and check out every book from one of the greatest authors.\n Are you an avid Stephen King fan? If so, then you\u2019re in the right place! In this article, I\u2019m sharing a list of all of Stephen King\u2019s books in order. Whether you love horror classics like IT and The Shining or more recent works such as The Outsider and Doctor Sleep, here you will find them all listed chronologically by date of publication. Get ready to take a trip through time \u2013 from Carrie, published back in 1974, to his latest collection coming out in 2024. Plus, you\u2019ll see first-hand how masterful one of the greatest authors has been for now almost 5 decades.\n But first, who is Stephen King?\n Stephen King is an American author of horror, supernatural fiction,...",
+        "url": "https://bibliolifestyle.com/stephen-king-books-in-order/"
+      }
+    ]
+  },
+  {
+    "id": "EXT008",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "Is it bad to brush your teeth more than twice a day?",
+    "reference_answer": "While not always bad, brushing more than 2 times a day could be harmful so should be done with caution",
+    "evidence": [
+      {
+        "source": "How Long (and Often) To Brush Your Teeth \u2013 Cleveland Clinic",
+        "text": "How Often Should You Brush Your Teeth?\nFrom an early age, most of us learned to brush our teeth twice a day. Regular brushing is a great start to optimal dental health \u2014 but it\u2019s not enough to keep your mouth in tip-top shape even if you follow that one simple rule. Dentist Anne Clemons, DMD, explains other tips to keep your teeth and gums healthy for a lifetime.\n Cleveland Clinic is a non-profit academic medical center. Advertising on our site helps support our mission. We do not endorse non-Cleveland Clinic products or services. Policy\nHow long should you brush your teeth?\n Some people take 20 seconds to brush. Others scrub away for three minutes or longer. Does it really matter how long you take to brush?\n \u201cThe time you spend caring for your teeth is important,\u201d says Dr. Clemons....",
+        "url": "https://health.clevelandclinic.org/how-often-to-brush-your-teeth/"
+      },
+      {
+        "source": "Is It Bad to Brush Your Teeth More Than Twice a Day? - Oral Health ...",
+        "text": "Is It Bad to Brush Your Teeth More Than Twice a Day?\n Brushing your teeth regularly is a crucial part of making sure your teeth and overall oral health stay healthy. The American Dental Association and your dentist in Reston recommend that everyone brushes their teeth twice a day, but what if you brush your teeth more often than that? Could it actually be bad to brush your teeth more than twice a day?\n Why is Twice a Day the Recommendation?\n The recommendation to brush your teeth twice a day wasn\u2019t just random. There\u2019s science behind why this is the best way to take care of your teeth. Your dentist in Reston will suggest that you brush your teeth in the morning and at night before you go to bed. Brushing your teeth in the morning helps freshen your breath for the day and removes any...",
+        "url": "https://www.ismileva.com/is-it-bad-to-brush-your-teeth-more-than-twice-a-day/"
+      },
+      {
+        "source": "Do You Brush Your Teeth Too Much?",
+        "text": "Comprehensive Dentistry In a Friendly and Relaxing Environment\nDo You Brush Your Teeth Too Much?\nDentist in Frederick, MD\nBrushing your teeth is a vital step in maintaining good oral health. However, is there such a thing as over-brushing?\n The American Dental Association recommends you brush your teeth for 2 minutes, twice a day. People sometimes brush after every meal, or brush midday to freshen up. Although this is not always a bad thing, when you start brushing too much or for too long, you can ultimately damage your teeth.\n Brushing more than three times a day, and for longer than 2 minutes, can sometimes lead to your tooth enamel wearing down as well as cause damage to your gums. Tooth enamel is the hardest substance in the human body and helps fight against tooth decay....",
+        "url": "https://premieredentalarts.com/do-you-brush-your-teeth-too-much/"
+      }
+    ]
+  },
+  {
+    "id": "EXT009",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "when was red bull released",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Red Bull - Wikipedia",
+        "text": "In 2012, Red Bull released Red Bull Total Zero, a variant with zero calories.[47] In 2018, the company released Red Bull Zero, a different sugar-free formulation designed to taste more like the original flavour.[48]\nThe company began expanding its flavour offerings in 2013 with the launch of Red Bull Editions. Initially available in cranberry, lime, and blueberry,[51] the Editions line has expanded to include a variety of flavours, including some available only during specific seasons or in certain regions:[52][53]\n The original three flavoured Editions: red (cranberry), blue (blueberry) and silver (dry lime). Silver has since been discontinued, and red reformulated to a watermelon flavour.\n The French food safety agency was concerned about taurine; a Red Bull drink that did not contain...",
+        "url": "https://en.wikipedia.org/wiki/Red_Bull"
+      },
+      {
+        "source": "History of Red Bull: Giving Wiiings Since 1987",
+        "text": "History of Red Bull\nWhen Red Bull was founded in 1987 it was not only the launch of a completely new product, in fact it was the birth of a totally new product category. Explore the company's journey from the very beginning until today.",
+        "url": "https://www.redbull.com/us-en/energydrink/history-of-red-bull"
+      }
+    ]
+  },
+  {
+    "id": "EXT010",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Do Tesla and X Corp. have the same CEO?",
+    "reference_answer": "No",
+    "evidence": [
+      {
+        "source": "X Corp. - Wikipedia",
+        "text": "In a company-wide email that month, Musk announced that Twitter employees would receive stock in X Corp.[20]\n On May 11, 2023, Musk tweeted that he had found his replacement as Twitter and X Corp.'s CEO. The next day, on May 12, 2023, he named Linda Yaccarino as the new CEO, adding that she \"will focus primarily on business operations, while I focus on product design & new technology\".[22] Musk said he would transition his role to executive chairman and chief technology officer.[23] Yaccarino succeeded Musk on June 5, 2023.[24]\nAt the end of May 2023, Fidelity Investments estimated the company's value at $15 billion.[25] This was later increased to a value of $27 billion by July,[26][27] and up to about $28.5 billion by the end of August.[28][29]\nThe company erected a giant illuminated...",
+        "url": "https://en.wikipedia.org/wiki/X_Corp."
+      },
+      {
+        "source": "Here Are All Of Elon Musk's 'X' Brands - Forbes",
+        "text": "Here Are All Of Elon Musk's 'X' Brands\nTopline\nElon Musk, the CEO of Tesla and SpaceX and the owner and chief technology officer of Twitter, has announced the rebrand of the social network company to X\u2013here\u2019s Musk\u2019s historic use of the X brand.\n The world's richest man has has a love for X evident in his earliest days of business. (Photo by ... [+] Justin Sullivan/Getty Images)\nGetty Images\nTimeline\n1999Musk co-founded the online banking platform, X.com, which allegedly sparked his obsession with the letter X, though once the company merged with Confinity in 2002 was renamed what is now known as PayPal by 2001.\n 2002Musk co-founded the Space Exploration Technologies Corporation, or SpaceX, the aerospace company that manufactures aircraft and provides launch services and satellite...",
+        "url": "https://www.forbes.com/sites/darreonnadavis/2023/07/24/here-are-all-of-elon-musks-x-brands/"
+      },
+      {
+        "source": "Musk's Move to Hire a Twitter CEO May Return Him to Tesla's ...",
+        "text": "Musk's Move to Hire a Twitter CEO May Return Him to Tesla's Driver's Seat\nMack Wilowski is a staff writer for Investopedia, focusing on breaking news stories, earnings previews, and company-specific insights and analysis. Previously, he was an associate editor for Investopedia's earned media team, where he covered the New York City Recovery Index and Economy Tracker, the weekly \"What to Expect\" markets preview, The Investopedia Express and Green Investor podcast transcripts, and the Term of the Day newsletter.\n Twitter CEO Elon Musk picked a new leader for the social media company, potentially allowing him to focus more on Tesla (TSLA), which on Friday was forced to recall more than 1.1 million vehicles in China, among its largest markets.\n X Corp.'s New CEO\nLinda Yaccarino, former...",
+        "url": "https://www.investopedia.com/musk-twitter-ceo-7497526"
+      }
+    ]
+  },
+  {
+    "id": "EXT011",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Is Subliminal Advertising Real?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Subliminal Ads, Unconscious Influence, and Consumption ...",
+        "text": "What myths and realities surround subliminal ads, and what does it mean for you?\n The idea that we can be influenced by ads we don\u2019t consciously detect is one of most intriguing in consumer psychology and has attracted a lot of attention over the years. Since the 1950s, people have feared that words or images briefly flashed on a screen or concealed in an advertisement have the power to make us buy certain products or even vote for a certain political candidate. Are these fears founded, or is this more myth than reality? The answer, believe it or not, is yes and no: While there are widely held false beliefs about subliminal advertising, it can influence us. In this post, I\u2019m going to explain this seeming contradiction, starting with a discussion of what subliminal advertising is and the...",
+        "url": "https://www.psychologytoday.com/us/blog/sold/201406/subliminal-ads-unconscious-influence-and-consumption"
+      },
+      {
+        "source": "9 Examples of Subliminal Advertising (and Why They Work ...",
+        "text": "The key to using subliminal advertising effectively is to stay well within widely accepted ethical boundaries, avoid appealing to inappropriate audiences, and design your messaging in such a way that consumers don\u2019t feel as though they\u2019re being intentionally duped.\n Continue reading to learn more about what subliminal advertising is and explore nine examples of subliminal advertising that works.\n What is Subliminal Advertising?\nSubliminal advertising is advertising that contains words, images, or sounds designed to convey a message to an audience that the conscious mind can\u2019t observe. In other words, subliminal advertising is the use of visual and auditory stimuli to influence the subconscious mind and drive consumer behavior, all while the consumer isn\u2019t consciously aware of the message...",
+        "url": "https://sharethis.com/marketing/2023/02/examples-of-subliminal-advertising-and-why-they-work/"
+      },
+      {
+        "source": "12 Examples of Effective Subliminal Advertising (And 6 That Aren't)",
+        "text": "With our subconscious perpetually on autopilot, when subliminal messages do stick, it\u2019s because your subconscious mind is taking them in. They sneak into your conscious rational mind and reach the core of your belief system.\n 3. Is Subliminal Advertising Illegal?\n You should consult an attorney to get an answer to that question.\n However, there are some court precedents that you might want to bring up when talking about the issue with your attorney.\n The first is Central Hudson Gas & Electric v. Public Service Commission of New York. In that case, the Supreme Court held that in order for marketing speech to be protected by the First Amendment, it must not be misleading.\n If your subliminal message is misleading, you could run into problems.\n In a separate case, Vance v. Judas Priest, a...",
+        "url": "https://ignitevisibility.com/7-examples-effective-subliminal-advertising/"
+      }
+    ]
+  },
+  {
+    "id": "EXT012",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "Which language do Lithuanians speak?",
+    "reference_answer": "Lithuanian",
+    "evidence": [
+      {
+        "source": "Lithuanian language - Wikipedia",
+        "text": "Publication Year: 2025\nIn the passive voice, the form number is not as rich as in the active voice. There are two types of passive voice in Lithuanian: present participle (type I) and past participle (type II) (in the examples below types I and II are separated with a slash). They both have the same moods and tenses:\nLithuanian has the richest participle system of all Indo-European languages, having participles derived from all simple tenses with distinct active and passive forms, and two gerund forms.\n In practical terms, the rich overall inflectional system makes the word order have a different meaning than in more analytic languages such as English. The English phrase \"a car is coming\" translates as \"atva\u017eiuoja automobilis\" (the theme first), while \"the car is coming\" \u2013 \"automobilis atva\u017eiuoja\" (the theme...",
+        "url": "https://en.wikipedia.org/wiki/Lithuanian_language"
+      },
+      {
+        "source": "Lithuanian language (lietuvi\u0173 kalba) - UCL",
+        "text": "Lithuanian language (lietuvi\u0173 kalba)\nLithuanian belongs to the family of Baltic languages. Currently there are only two Baltic languages spoken in the world: Lithuanian and Latvian but in the past there were more, such as: Galindian, old Prussian, Yotvingian, Skalvian, Selonian, Semigallian. They became extinct during the course of history.\n Lithuanian is a very old language. Linguists are particularly interested in Lithuanian because it is considered to be the oldest surviving Indo-European language. It retains many archaic features, which are believed to have been present in the early stages of the Proto-Indo-European language.\n What does that mean? Well, it means that Lithuanian is as archaic in many of its forms as Sanskrit, a classical Indian language, which also evolved from the...",
+        "url": "https://www.ucl.ac.uk/atlas/lithuanian/language.html"
+      },
+      {
+        "source": "6 Powerful Languages Spoken In Lithuania - ling-app.com",
+        "text": "Publication Year: 2023\nLithuanian kalbos is the sole official language in Lithuania; you will probably hear Lithuanian most of the time if you visit Lithuania. There are about 2.8 million native Lithuanian speakers and 200 00 more speakers from other nationalities who are Lithuanian speakers too. Since the language is quite old, primarily the oldest among Indo-European languages, it is said that it still retains features of the Proto-Indo-European language; so, until the present day, you can still find traces of Sanskrit in the language. i.e:\nThe modern Lithuanian language has two dialects the Auk\u0161tai\u010di\u0173 (Auk\u0161taitia, Highland Lithuanian), and the \u017demai\u010di\u0173/\u017demaitiu (Samogitian, Lowland Lithuanian). The two dialects can be divided into a few subdialects: Auk\u0161taitia or the Highland Lithuanian dialect can be...",
+        "url": "https://ling-app.com/lt/languages-spoken-in-lithuania/"
+      }
+    ]
+  },
+  {
+    "id": "EXT013",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "who has the biggest airport",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "What Are the 10 Biggest Airports in the World? | HowStuffWorks",
+        "text": "What Are the 10 Biggest Airports in the World?\n\"\"\nThe massive terminal at Beijing's Daxing International Airport dwarfs its passengers. It is the sixth-largest airport in the world by area. Chen Xiao/VCG via Getty Images\nMany air travelers have experienced the less-than-ideal scenario of needing to make a quick transfer to a connecting flight \u2014 only to discover that the next gate appears to be in a different county. Perhaps it only feels that far away, but changing planes at a major airport can certainly help a person get their daily steps in. And maybe if they're truly unlucky and find themselves at the biggest airport in the world, that brisk pace becomes frantic running.\n The world's largest airports are massive. Think Chicago O'Hare International Airport and Los Angeles International...",
+        "url": "https://science.howstuffworks.com/transport/flight/modern/biggest-airport-in-world.htm"
+      },
+      {
+        "source": "List of busiest airports by passenger traffic - Wikipedia",
+        "text": "Publication Year: 2025\nNote: For consistency, the Airports Council International's (ACI) annual figures are always used in the final presentation and ranking, even where figures given by airport operators or authorities differ.",
+        "url": "https://en.wikipedia.org/wiki/List_of_busiest_airports_by_passenger_traffic"
+      },
+      {
+        "source": "The top 10 largest airports in North America",
+        "text": "The top 10 largest airports in North America\nDenver International Airport is the largest airport in North America by area.\n Exploring the Top Largest Airports in America\nThe North American continent is a hotbed of air traffic. The US has historically been the country with the largest number of air passengers, with around 925 million passengers travelling by air in 2019. This is in no part due to the focus on aviation as the mode of choice for inter-city travel, due to the country\u2019s size and the distance between key cities.\n So, unsurprisingly, the top ten largest airports in North America are all located in the US. The largest airport in Canada, Toronto Pearson International Airport, narrowly misses out on the list with its footprint of 18.67km2 (7.2 square miles). The largest airport in...",
+        "url": "https://www.airport-technology.com/features/largest-airports-north-america/"
+      }
+    ]
+  },
+  {
+    "id": "EXT014",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "what was the population of the roman empire at its height?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Demography of the Roman Empire - Wikipedia",
+        "text": "Publication Year: 2025\nThe Roman Empire was at its greatest extent during the reign of Trajan, 117 CE\nThe Roman Empire's population has been estimated at between 59 and 76 million in the 1st and 2nd centuries,[1] peaking probably just before the Antonine Plague. Historian Kyle Harper provides an estimate of a population of 75 million and an average population density of about 20 people per square kilometre at its peak,[2] with unusually high urbanization. During the 1st and 2nd centuries CE, the population of the city of Rome is conventionally estimated at one million inhabitants. Historian Ian Morris estimates that no other city in Western Eurasia would have as many again until the 19th century.[3]\nPapyrus evidence from Roman Egypt suggests like other more recent and thus better documented pre-modern...",
+        "url": "https://en.wikipedia.org/wiki/Demography_of_the_Roman_Empire"
+      },
+      {
+        "source": "Roman Empire - Wikipedia",
+        "text": "Publication Year: 2025\n28][g]\nIn the view of contemporary Greek historian Cassius Dio, the accession of Commodus in 180 marked the descent \"from a kingdom of gold to one of rust and iron\",[34] a comment which has led some historians, notably Edward Gibbon, to take Commodus' reign as the beginning of the Empire's decline.[35][36]\nGeography and demography\nThe Roman Empire was one of the largest in history, with contiguous territories throughout Europe, North Africa, and the Middle East.[50] The Latin phrase imperium sine fine (\"empire without end\"[51]) expressed the ideology that neither time nor space limited the Empire. In Virgil's Aeneid, limitless empire is said to be granted to the Romans by Jupiter.[52] This claim of universal dominion was renewed when the Empire came under Christian rule in the 4th...",
+        "url": "https://en.wikipedia.org/wiki/Roman_Empire"
+      }
+    ]
+  },
+  {
+    "id": "EXT015",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to misinformation",
+    "expected_conflict_type": null,
+    "scored": false,
+    "question": "What is the best-selling jazz album of all time?",
+    "reference_answer": "Kind of Blue",
+    "evidence": [
+      {
+        "source": "Top 25 Jazz Albums of All Time",
+        "text": "Top 25 Jazz Albums of All Time\nThe jazz albums listed below are among the greatest ever recorded. Mostly selected from the golden \"modern\" jazz music era of 1940s to the 1970s, these recordings captured the great passion and emotion that these musicians spent a lifetime developing.\n Kind Of Blue - Miles Davis\nWhile it is one of the top-selling jazz albums of all time, many consider this to be THE best jazz album of all time. This may be because this unrehearsed recording session from 1959 marks a great turning point in jazz history as well as showcasing the top form of some legendary musicians. Miles showed up to the Columbia recording studio with some rough melodies and chords jotted down on paper and the band proceeded to track each song in one or two takes. That's how Miles liked to do...",
+        "url": "https://www.thejazzresource.com/top_25_jazz_albums.html"
+      }
+    ]
+  },
+  {
+    "id": "EXT016",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Who is the current ATP top-ranked men's singles tennis player?",
+    "reference_answer": "Jannik Sinner ( ITA )",
+    "evidence": [
+      {
+        "source": "Men's Tennis ATP Rankings 2025 - ESPN",
+        "text": "Publication Year: 2025\nESPN BET is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.",
+        "url": "https://www.espn.com/tennis/rankings"
+      }
+    ]
+  },
+  {
+    "id": "EXT017",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "when did women get the vote",
+    "reference_answer": "August 18, 1920",
+    "evidence": [
+      {
+        "source": "19th Amendment to the U.S. Constitution: Women's Right to Vote ...",
+        "text": "Beginning in the 1800s, women organized, petitioned, and picketed to win the right to vote, but it took them decades to accomplish their purpose. Between 1878, when the amendment was first introduced in Congress, and August 18, 1920, when it was ratified, champions of voting rights for women worked tirelessly, but strategies for achieving their goal varied. Some pursued a strategy of passing suffrage acts in each state\u2014nine western states adopted woman suffrage legislation by 1912. Others challenged male-only voting laws in the courts. Some suffragists used more confrontational tactics such as picketing, silent vigils, and hunger strikes. Often supporters met fierce resistance. Opponents heckled, jailed, and sometimes physically abused them.\n By 1916, almost all of the major suffrage...",
+        "url": "https://www.archives.gov/milestone-documents/19th-amendment"
+      },
+      {
+        "source": "Women's suffrage - Wikipedia",
+        "text": "Publication Year: 2024\n917; women getting vote on same basis as men in 1920, that is, men and women of certain races or status being excluded from voting until 1960, when universal adult suffrage was achieved.[42]\nThe Representation of the People Act 1918 saw British women over 30 gain the vote. Dutch women won the passive vote (allowed to run for parliament) after a revision of the Dutch Constitution in 1917 and the active vote (electing representatives) in 1919, and American women on August 26, 1920, with the passage of the 19th Amendment (the Voting Rights Act of 1965 secured voting rights for racial minorities). Irish women won the same voting rights as men in the Irish Free State constitution, 1922. In 1928, British women won suffrage on the same terms as men, that is, for ages 21 and older. The suffrage...",
+        "url": "https://en.wikipedia.org/wiki/Women%27s_suffrage"
+      },
+      {
+        "source": "The 19th Amendment - Rock the Vote",
+        "text": "The largest women\u2019s organization at the time, The Women\u2019s Christian Temperance Union (WCTU), established in 1873, joined the general suffrage movement giving the effort an enormous boost.\n At the local level, suffragists made several attempts to vote and after being turned away filed lawsuits hoping to bring the matter to the U.S. Supreme Court. Susan B. Anthony successfully voted in 1872 but was later arrested and found guilty for voting in a highly publicized trial that helped fuel the movement. In 1875, in Minor v. Happersett, the Supreme Court upheld states\u2019 rights to deny women the right to vote recognizing the plaintiff as a citizen but stating that the constitutionally protected privileges of being a citizen did not include the right to vote.\n Tensions between prominent leaders,...",
+        "url": "https://www.rockthevote.org/explainers/the-19th-amendment/"
+      }
+    ]
+  },
+  {
+    "id": "EXT018",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "what's the highest point in the us?",
+    "reference_answer": "Denali in Alaska ",
+    "evidence": [
+      {
+        "source": "List of the highest major summits of the United States - Wikipedia",
+        "text": "Publication Year: 2025\nMajor 3000-meter summits\nA total of 477 mountain summits in the United States meet both criteria for the definition of \"major summit\" used here: at least 3,000 metres (9,843 ft) of topographic elevation and at least 500 metres (1,640 ft) of topographic prominence. Of these 477 summits, 117 are located in Colorado, 67 in Alaska, 51 in California, 43 in Wyoming, 42 in Montana, 40 in Utah, 38 in Nevada, 36 in Idaho, 26 in New Mexico, five in Arizona, five in Oregon, four in Washington, and three in Hawai\u02bbi. Five of these summits are located on the international border between Alaska and the Yukon, and three are located on the international border between Alaska and British Columbia. The ten highest major summits of the United States are all located in Alaska.\n The northernmost summit with at...",
+        "url": "https://en.wikipedia.org/wiki/List_of_the_highest_major_summits_of_the_United_States"
+      },
+      {
+        "source": "United States: highest point in each state or territory - Statista",
+        "text": "Publication Year: 2024\nStatista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide.\n For more details, visit our website.\n Why Statista\nSee why Statista is the trusted choice for reliable data and insights. We provide one platform to simplify research and support your strategic decisions. Read more\nUnited States: highest point in each state or territory\nAt 20,310 feet (6.2km) above sea level, the highest point in the United States is Denali, Alaska (formerly known as Mount McKinley). The highest point in the contiguous United States is Mount Whitney, in the Sierra Nevada mountain range in California; followed by Mount Elbert, Colorado - the highest point in the Rocky Mountains. When...",
+        "url": "https://www.statista.com/statistics/203932/highest-points-in-the-united-states-by-state/"
+      },
+      {
+        "source": "The Tallest Mountain in the U.S. and 7 Close Contenders",
+        "text": "Publication Year: 2024\nWhitney: Sierra Nevada Mountains, California\n\"\"\nMount Whitney. Photo by Benjawan Sittidech / Getty Images\n This is the first of the tallest mountains not to be located in Alaska, which also makes it the highest point in the contiguous United States. Mount Whitney is nestled on the edge of beautiful Sequoia National Park in Northern California, rising 14,494 feet (4,418 meters) above some of the world's oldest and largest tree specimens.\n Advertisement\n6. Mount Elbert: Sawatch Range, Colorado\n\"\"\nMount Elbert. Copyright Lynn Cyrus, Denver, Co / Getty Images\nMount Elbert, due west of Pikes Peak, has the distinction of being the highest mountain of the massive Rocky Mountains region, as well as one of the highest major summits in the continental States.\n Elbert comes in as a close second to...",
+        "url": "https://science.howstuffworks.com/environmental/earth/tallest-mountain-in-us.htm"
+      }
+    ]
+  },
+  {
+    "id": "EXT019",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Conflict due to misinformation",
+    "expected_conflict_type": null,
+    "scored": false,
+    "question": "When did season 5 of prison break come out?",
+    "reference_answer": "April 4, 2017",
+    "evidence": [
+      {
+        "source": "Prison Break (TV Series 2005\u20132017) - Episode list - IMDb",
+        "text": "Episode list\nPrison Break\nSeven years have passed, with everyone having moved on with their lives. Michael is discovered to still be alive after his apparent death and has ended up in a Yemen prison. Lincoln gets a visit from a familiar face and learns the news about Michael and his whereabouts.\n As Lincoln and C-Note search for the \"Sheik of Light,\" Michael and his cellmate, Whip, attempt an escape from Ogygia. Meanwhile, Sara's investigation into Michael's reappearance leads her to the state department and an uneasy reunion with Paul Kellerman.\n When T-Bag ambushes Sara, he warns her that two of Poseidon's henchmen, Van Gogh and A&W, may be following her. Meanwhile, Lincoln attempts to retrieve his confiscated passport to escape Yemen, and Michael plans his next move.\n Dangerous threats...",
+        "url": "https://www.imdb.com/title/tt0455275/episodes/?season=5"
+      },
+      {
+        "source": "Season 5 \u2013 Prison Break - Rotten Tomatoes",
+        "text": "Although this season is the final one, there can be no doubt that Prison Break went out with a bang.\n Rated 5/5 Stars \u2022 Rated 5 out of 5 stars04/05/24\nFull Review\nIIM4CKII G\nSeason 5 is the season when you know they had to stop.. The story is bad.. Hard to follow.. Nothing make sense and they destroy all the good characters.. Season 1 a big 10/10 season 5 1/10 no joke..\nRated 1/5 Stars \u2022 Rated 1 out of 5 stars12/15/23\nFull Review\nRead all reviews\nEpisodes\nEpisode 1Aired Apr 4, 2017OgygiaLincoln Burrows and Sara Tancredi reunite to track down the truth after clues emerge that suggest Michael Scofield might still be alive.\n Details Episode 2Aired Apr 11, 2017Kaniel OutisLincoln and C-Note search for the Sheik of Light; Michael and Whip attempt an escape from Ogygia; Sara's investigation...",
+        "url": "https://www.rottentomatoes.com/tv/prison_break/s05"
+      },
+      {
+        "source": "List of Prison Break episodes - Wikipedia",
+        "text": "A total of 90 episodes of Prison Break have been aired, in addition to three special making-of episodes. The first season aired from August 29, 2005 to May 15, 2006, with a four-month break after Thanksgiving. The second season, which premiered on August 21, 2006, had a similar schedule as the first, although it had a shorter break. After an eight-week hiatus, the second season resumed on January 22, 2007 before ending on April 2, 2007. The third season began on September 17, 2007, with an eight-episode run. The show's third season went on hiatus over the 2007 Christmas period because of the 2007\u20132008 Writers Guild of America strike. It resumed on January 14, 2008, and the last five episodes of the season were aired. The fourth season, consisting of 22 episodes, began airing in September...",
+        "url": "https://en.wikipedia.org/wiki/List_of_Prison_Break_episodes"
+      }
+    ]
+  },
+  {
+    "id": "EXT020",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Who is the highest-paid athlete in the world?",
+    "reference_answer": "Cristiano Ronaldo",
+    "evidence": [
+      {
+        "source": "Forbes 2024 World's Highest-Paid Athletes List",
+        "text": "The World's Highest-Paid Athletes 2024\n In the eight years since he became the world\u2019s highest-paid athlete for the first time, much has changed for Cristiano Ronaldo. The 39-year-old Portuguese soccer star went from lighting up the Bernab\u00e9u with Real Madrid to stints with Juventus and Manchester United, until finally landing at his current home, Al Nassr of the Saudi Pro League. But no matter the location, one thing has remained constant\u2014Ronaldo is still drawing outsized paydays.\n He earned an estimated $260 million over the last 12 months, making him the highest-paid athlete in the world for the fourth time in his career. Forbes estimates Ronaldo\u2019s contract with Al Nassr earned him $200 million this season. And as one of the sports world\u2019s most successful pitchmen, Ronaldo earned...",
+        "url": "https://www.forbes.com/lists/athletes/"
+      },
+      {
+        "source": "Highest Paid Athletes in the World: Full List - Sportico.com",
+        "text": "022-23 and 2023-24 seasons, as well as bonuses paid out during 2023. Base salaries tend not to vary significantly from year to year, but the Saudi Pro League spending spree on soccer players introduced massive one-year leaps for stars such as Karim Benzema. The salaries listed are a blend of two seasons based on estimated payment schedules.\n NBA salaries in 2022-23 were reduced 2.65% once final accounting on the season was completed based on the league\u2019s collective bargaining agreement. The CBA ensures a roughly 50-50 revenue split between players and teams, with an escrow account in place to withhold salaries to protect the split. The players would have received 100% of the escrow if not for a carryover shortfall from COVID-19-impacted seasons. We did not reduce salaries for 2023-24 when...",
+        "url": "https://www.sportico.com/feature/highest-paid-athletes-in-the-world-1234765608/"
+      }
+    ]
+  },
+  {
+    "id": "EXT021",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Conflict due to misinformation",
+    "expected_conflict_type": null,
+    "scored": false,
+    "question": "when was nutella first sold",
+    "reference_answer": "1964",
+    "evidence": [
+      {
+        "source": "The History of Nutella",
+        "text": "Do you know the history of our signature recipe and unmistakable taste?\nPositivity as a main ingredient\nAfter World War II, cocoa was extremely scarce. Ferrero, originally from Piedmont in Italy, turned this tricky problem into a smart solution by creating a sweet paste made from hazelnuts, sugar and just a little of the rare cocoa. The precursor to Nutella\u00c2\u00ae was born!\n 1946\n Giandujot\nThe sweet paste of the first recipe was shaped into a loaf that could be sliced and spread on bread, named after a local carnival character.\n 1951\nSuperCrema\nThe \u00e2\u0080\u0098Giandujot\u00e2\u0080\u0099 paste was transformed into a creamy new product that was easier to spread. It was known as SuperCrema.\n1964\nNutella\u00c2\u00ae is born\nThe recipe was improved, leading to the creation of the first-ever jar of hazelnut and cocoa cream....",
+        "url": "https://www.nutella.com/us/en/inside-nutella/our-heritage"
+      },
+      {
+        "source": "Nutella's Surprising Origin Story - Cond\u00e9 Nast Traveler",
+        "text": "Nutella's Surprising Origin Story\nThough Nutella nowadays is treated as somewhat of an indulgence, the popular hazelnut-cocoa spread was actually borne out of wartime hardship, when it was developed in 1946 by Italian baker Pietro Ferrero as a cheaper alternative to chocolate. A riff on pasta gianduja, a chocolate paste invented in Turin during Napoleon's rule (1796-1814, in case you don't have a history book handy) Ferrero's initial creation was something of a chocolate block that could be cut and sandwiched between slices of bread\u2014economical, certainly, but not so appealing. The slab was eventually made spreadable, and the first jar of Nutella left the factory on April 20, 1964. The rest, they say, is history.\n Today, Nutella is the subject of food fandom and worldwide devotion\u2014my own...",
+        "url": "https://www.cntraveler.com/stories/2016-02-05/nutellas-surprising-origin-story"
+      },
+      {
+        "source": "The Untold History Behind Nutella's Rise to Household Fame",
+        "text": "War Strikes Again, and Nutella Is Born\nSerious Eats / Vicky Wasik\n After 90 years of producing their treats in relative peace, the chocolatiers of Turin faced a new period of uncertainty with the onset of World War II. As with Napoleon's blockade, the onset of the war brought with it food rations, and the supply of cocoa was once again drastically limited. In 1946, Piedmontese pastry chef Pietro Ferrero, inspired by gianduiotti and his chocolatier forefathers, created a thick paste using hazelnuts, sugar, and what little cocoa was available. He shaped the paste into a loaf and named it \"Giandujot.\" But though its low proportion of expensive cocoa arose out of the cost-consciousness of the war years, Giandujot, so dense and thick that it had to be cut with a knife, was still too pricey for...",
+        "url": "https://www.seriouseats.com/the-untold-history-behind-nutella-8766990"
+      }
+    ]
+  },
+  {
+    "id": "EXT022",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Should animals be used for research?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Why Animal Research? | Animal Research at Stanford | Stanford ...",
+        "text": "The ethics of animal experimentation\nNothing so far has been discovered that can be a substitute for the complex functions of a living, breathing, whole-organ system with pulmonary and circulatory structures like those in humans. Until such a discovery, animals must continue to play a critical role in helping researchers test potential new drugs and medical treatments for effectiveness and safety, and in identifying any undesired or dangerous side effects, such as infertility, birth defects, liver damage, toxicity, or cancer-causing potential.\n U.S. federal laws require that non-human animal research occur to show the safety and efficacy of new treatments before any human research will be allowed to be conducted. Not only do we humans benefit from this research and testing, but hundreds...",
+        "url": "https://med.stanford.edu/animalresearch/why-animal-research.html"
+      },
+      {
+        "source": "Why Do Scientists Use Animals in Research | American ...",
+        "text": "Why Do Scientists Use Animals in Research?\nScientists use animals to learn more about health problems that affect both humans and animals, and to assure the safety of new medical treatments. Some of these problems involve processes that can only be studied in a living organism. Scientists study animals when there is no alternative and it is impractical or unethical to study humans.\n Animals are good research subjects for a variety of reasons. They are biologically similar to humans and susceptible to many of the same health problems. Also, they have short life-cycles so they can easily be studied throughout their whole life-span or across several generations. In addition, scientists can control the environment around the animal (diet, temperature, lighting, etc.), which would be difficult...",
+        "url": "https://www.physiology.org/career/policy-advocacy/animal-research/Why-do-scientists-use-animals-in-research"
+      },
+      {
+        "source": "Why Animals are Used in Research | grants.nih.gov",
+        "text": "Why Animals are Used in Research\nAnimals have unique and important roles in biomedical and behavioral research. Many medical advances that enhance the lives of humans are developed from research studies with animals.\n Good animal care and good science go hand in hand. NIH takes the involvement, role, and respectful use of animals in research seriously. The integrity of the research depends on ensuring that they are well cared for throughout the research process. Of note, NIH does not support research into cosmetic testing.\n Scientists thoughtfully and carefully choose and justify the specific animal models used in research based on their similarity to humans in anatomy, physiology, and/or genetics, or even everyday living conditions. Animals serve as \u201cmodels\u201d that represent certain...",
+        "url": "https://grants.nih.gov/grants/policy/air/why.htm"
+      }
+    ]
+  },
+  {
+    "id": "EXT023",
+    "dataset_source": "qacc",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "who sings gone gone gone she been gone so long?",
+    "reference_answer": "Chiliwack",
+    "evidence": [
+      {
+        "source": "My Girl (Gone, Gone, Gone) (1981) - Chilliwack - YouTube",
+        "text": "Publication Year: 2022\nOur systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot. Why did this happen?\n This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the Terms of Service. The block will expire shortly after those requests stop. In the meantime, solving the above CAPTCHA will let you continue to use our services.\n This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests. If you share your network connection, ask your administrator for help \u2014 a different computer using the same IP address may be responsible. Learn more\nSometimes you may be asked to solve the CAPTCHA if you are...",
+        "url": "https://www.youtube.com/watch?v=rMf4NapohUQ"
+      },
+      {
+        "source": "My Girl (Gone, Gone, Gone) - Wikipedia",
+        "text": "Publication Year: 2024\nBackground\nGuitarist Brian MacLeod invited singer Bill Henderson onto his boat to sail around the coast of British Columbia, fish, and write songs. MacLeod was playing some chord changes on a Fender Rhodes keyboard and singing the melody \"down down down down down d-down\". He thought it was a bad idea, \"like the Beach Boys, but with a lot of weird chord changes going on. \"[3] Henderson saw potential, and decided the words were \"Gone gone gone she's been gone so long, she's been gone gone gone so long.\" From there, MacLeod came up with chords for verses and chorus, and Henderson came up with the melody and made up a story around a girl being gone so long. The song was written in a day, the demo was recorded on Henderson's 4-track cassette studio recorder, and he added the bridge and a...",
+        "url": "https://en.wikipedia.org/wiki/My_Girl_(Gone,_Gone,_Gone)"
+      },
+      {
+        "source": "Chilliwack - My Girl (Gone, Gone, Gone) - [STEREO] - YouTube",
+        "text": "Publication Year: 2011\nOur systems have detected unusual traffic from your computer network. This page checks to see if it's really you sending the requests, and not a robot. Why did this happen?\n This page appears when Google automatically detects requests coming from your computer network which appear to be in violation of the Terms of Service. The block will expire shortly after those requests stop. In the meantime, solving the above CAPTCHA will let you continue to use our services.\n This traffic may have been sent by malicious software, a browser plug-in, or a script that sends automated requests. If you share your network connection, ask your administrator for help \u2014 a different computer using the same IP address may be responsible. Learn more\nSometimes you may be asked to solve the CAPTCHA if you are...",
+        "url": "https://www.youtube.com/watch?v=WsrmNWorkJg"
+      }
+    ]
+  },
+  {
+    "id": "EXT024",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Does centrifugal force exist?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Centrifugal Force-Driven Modular Micronozzle System: Generation ...",
+        "text": "In addition, to overcome the limitation of the conventional pump-based microreactor, which requires careful fluid control, a user friendly microreactor was implemented by inducing fluid flow using centrifugal force (Table S1). This centrifuge-based easy setup is composed of three functional parts: a modular micronozzle, a micronozzle supporter, and a collection tube (see Fig. 1B\u2013E). The desired functional materials were produced within 3 min through the programmable modular microreactor, in which the size and shape of the alginate particle were coded according to the assembly of the micronozzles having different inner diameters. More specifically, the alginate microsphere generation mechanism was followed by a \u201cquasi-static droplet formation\u201d, where a breaks alginate solution off...",
+        "url": "https://www.nature.com/articles/s41598-019-49244-4"
+      },
+      {
+        "source": "Inverse centrifugal effect induced by collective motion of vortices in ...",
+        "text": "The last two terms in the momentum equation (Eq. (1)) represent the Coriolis force and the centrifugal force, respectively. The equations were nondimensionalized using L, \u0394T, and the free-fall velocity \\({U}_{{{{{{{{\\rm{f}}}}}}}}}=\\sqrt{\\alpha g\\Delta TL}\\). The simulations were performed in a cylindrical sample with an aspect ratio \u0393 = 4 and no-slip boundaries at all walls. Equations (1\u20133) were solved using a fully parallelized DNS code CUPS based on finite volume method with 4th order precision. To increase computational efficiency without any sacrifice in precision, we used a multiple-resolution strategy, in which the temperature equation was solved in a finer grid than the momentum one, allowing for a sufficient resolution to resolve the Batchelor and Kolmogorov length scales. The...",
+        "url": "https://www.nature.com/articles/s41467-021-25838-3"
+      },
+      {
+        "source": "Black Holes, Ants, and Roller Coasters | Discover Magazine",
+        "text": "And this astonishing discovery has profound consequences for the way we understand all motion.\n The idea of the centrifugal force has long made physicists a bit uncomfortable. Although the force appears whenever a moving object strays from a straight path, its existence depends on the point of view of the observer. Thus when a car rounds a curve, the passengers feel pressed outward by an unseen agency they call the centrifugal force, which increases with the speed of the car and disappears when the car stops moving or the road straightens out. However, people watching the scene from the side of the road, though they too would notice the outward push, would not ascribe its cause to the centrifugal force. Instead, they would explain the effect by pointing to the inertia of the...",
+        "url": "https://www.discovermagazine.com/the-sciences/black-holes-ants-and-roller-coasters"
+      }
+    ]
+  },
+  {
+    "id": "EXT025",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "what type of french is spoken",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "French language - Wikipedia",
+        "text": "Smaller pockets of French speakers exist in all other provinces. The Ontarian city of Ottawa, the Canadian capital, is also effectively bilingual, as it has a large population of federal government workers, who are required to offer services in both French and English,[79] and is just across the river from the Quebecois city of Gatineau.\n United States\nFrench language spread in the United States. Counties marked in lighter pink are those where 6\u201312% of the population speaks French at home; medium pink, 12\u201318%; darker pink, over 18%. French-based creole languages are not included.\n Caribbean\nFrench is one of two official languages in Haiti alongside Haitian Creole. It is the principal language of education, administration, business, and public signage and is spoken by all educated...",
+        "url": "https://en.wikipedia.org/wiki/French_language"
+      },
+      {
+        "source": "9 French Dialects from Around the World | Voice Crafters",
+        "text": "Like Haitian Creole, Louisiana Creole is a separate language with French components.\n Louisianans who speak French or Creole are actively working to maintain their cultural and linguistic identities.\n This French 24 special illustrates the region\u00e2\u0080\u0099s unique culture and the efforts to preserve it for future generations.\n With the growing influence of technology and mass media, it will require a sustained effort from native speakers as well as governmental and cultural organizations to preserve endangered languages like Louisiana Creole as well as dialects like Louisiana French.\n 7. Algerian French\nAlgeria has a long and tumultuous history with France, starting with the French invasion of Algeria in 1830.\n While Algeria gained formal independence from France in 1962, their histories are...",
+        "url": "https://www.voicecrafters.com/blog/9-french-dialects-from-around-the-world/"
+      }
+    ]
+  },
+  {
+    "id": "EXT026",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "when was the last time cleveland browns went to playoffs",
+    "reference_answer": "2023",
+    "evidence": [
+      {
+        "source": "Cleveland Browns Playoff History | 1950 - 2024 - Champs or Chumps",
+        "text": "Publication Year: 2025\nCleveland Browns History\nOverview\nThe Cleveland Browns have played a total of 72\nseasons. Their first season was in 1950, and their most recent season was in 2024.\n Have the Cleveland Browns gone by any other names?\n No, the Cleveland Browns have been known by that name since 1950.\n What division do the Cleveland Browns play in?\n The Cleveland Browns currently play in the\nNorth Division\nof the American Football Conference, aka the\nAFC North.\n When was the last time the Browns were in the playoffs?\n The Cleveland Browns last made the playoffs in 2023, when they lost the Wild Card Round. They've been in the playoffs a total of 26 times in their 72 seasons.\n When was the last time the Browns missed the playoffs?\n The Cleveland Browns last missed the playoffs in 2024.\n When was the last time...",
+        "url": "https://champsorchumps.us/team/nfl/cleveland-browns"
+      },
+      {
+        "source": "Cleveland Browns Playoff History, Appearances, Wins and more",
+        "text": "The Cleveland Browns play in the AFC North Division of the NFL. Established in 1944, the Browns played in the All American Football Conference from 1946-1949, winning all the championships during their appearances. The Browns have been an NFL franchise since 1950 and play in the FirstEnergy Stadium in Ohio (since 1999). They were suspended for three seasons (1996-98) due to the formation of the Baltimore Ravens. The Ravens were formed with the entire roster of the Browns when new owner Art Modell faced backlash from the people of Ohio for wanting to shift the team to Baltimore. Although the Browns logo and intellectual property were retained, the entire roster was shifted to the Ravens team. The Browns resumed operations with an entirely new team in 1999.\n The Cleveland Browns made it to...",
+        "url": "https://www.sportskeeda.com/nfl/cleveland-browns-playoff-history"
+      }
+    ]
+  },
+  {
+    "id": "EXT027",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "when was the multiculturalism policy passed",
+    "reference_answer": "1971",
+    "evidence": [
+      {
+        "source": "Canadian Multiculturalism Act - Wikipedia",
+        "text": "Publication Year: 2024\nDetails\nWHEREAS the Constitution of Canada provides that every individual is equal before and under the law and has the right to the equal protection and benefit of the law without discrimination and that everyone has the freedom of conscience, religion, thought, belief, opinion, expression, peaceful assembly and association and guarantees those rights and freedoms equally to male and female persons...\n The multiculturalism policy allows citizens to practice their religions and keep their identities without the fear of official persecution. It is believed by some that without this fear, Canadians are more willing to accept different cultures. The policy, therefore, emphasizes a mutual respect between ethnicities and also acceptance of one's personal beliefs.[4]\nThis policy guarantees...",
+        "url": "https://en.wikipedia.org/wiki/Canadian_Multiculturalism_Act"
+      },
+      {
+        "source": "Canadian Multiculturalism Act",
+        "text": "On 1 December 1987, Secretary of State David Crombie introduced the Canadian Multiculturalism Act. It received Royal Assent on 21 July 1988. The Act enshrined multicultural\npolicy in law, declaring the government would \u201crecognize and promote the understanding that multiculturalism is a fundamental characteristic of the Canadian heritage and identity\u201d and \u201cpromote the full and equitable participation of individuals and communities\nof all origins in the continuing evolution and shaping of all aspects of Canadian society and assist them in the elimination of any barrier to that participation.\u201d Canada was the first country in the world to pass a national multiculturalism law.\n At the time, critics of the new law said that it ignored many of the Standing Committee\u2019s recommendations, including...",
+        "url": "https://www.thecanadianencyclopedia.ca/en/article/canadian-multiculturalism-act"
+      },
+      {
+        "source": "Canadian Multiculturalism Act, 1988",
+        "text": "Publication Year: 2025\nCanadian Multiculturalism Act, 1988\nSummary\nThe Canadian Multiculturalism Act of 1988 provided a legislative framework to the existing policy of multiculturalism and expanded its focus. Revisions to the policy were deemed necessary to better reflect Canada\u2019s increasingly diverse racial and ethnic composition. The act sought to protect the cultural heritage of all Canadians, reduce discrimination, and encourage the implementation of multicultural programs and initiatives within institutions and organizations. Canada was the first country to pass a national multiculturalism law.\n The Canadian Multiculturalism Act of 1988 provided a legislative framework for the official policy of multiculturalism adopted by the government in 1971. The act sought to protect the cultural heritage of...",
+        "url": "https://pier21.ca/research/immigration-history/canadian-multiculturalism-act-1988"
+      }
+    ]
+  },
+  {
+    "id": "EXT028",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Who is the most recent former Prime Minister of the United Kingdom?",
+    "reference_answer": "Rishi Sunak",
+    "evidence": [
+      {
+        "source": "List of prime ministers of the United Kingdom - Wikipedia",
+        "text": "There is no specific date for when the office of prime minister first appeared, as the role was not created but rather evolved over time through a merger of duties.[1] The term was regularly, if informally, used by Robert Walpole by the 1730s.[2] It was used in the House of Commons as early as 1805,[3] and it was certainly in parliamentary use by the 1880s,[4] although did not become the official title until 1905, when Arthur Balfour was prime minister.\n^ abResigned on 10 February 1746, reappointed by George II on 12 February 1746.\n ^Pitt served as a Member of Parliament for Bath for the first five days of his premiership (30 July \u2013 4 August 1766). He relinquished his Commons seat in order to take the office of Lord Privy Seal, which required his elevation to the House of Lords.\n...",
+        "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_United_Kingdom"
+      },
+      {
+        "source": "British Prime Ministers | University of Oxford",
+        "text": "Share This\nBritish Prime Ministers\nThirty-one British Prime Ministers have been educated at Oxford University. Of these, 13 were educated at Christ Church, four at Balliol, three at Trinity, two at Brasenose and one each at Hart Hall (now Hertford), Jesus College, Lincoln, Merton, St Edmund Hall, St Hugh's, St John's, Somerville and University.",
+        "url": "https://www.ox.ac.uk/about/oxford-people/british-prime-ministers"
+      }
+    ]
+  },
+  {
+    "id": "EXT029",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "when did we first wear green and gold",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "National colours of Australia - Wikipedia",
+        "text": "History\nThe first Australian national sporting team to wear green and gold was the Australian cricket team that toured England in 1899. Their clothes were the traditional white, but the captain Joe Darling arranged for green and gold caps and blazers to be worn for the opening match of the Ashes series. Previously, the team had had no uniform cap or blazer colours but wore an assortment of club or state colours.[3] The Australian cricket team continued to use the colours thereafter, and in 1908 the colours were ratified as the official team colours for future Australian cricket teams. During subsequent discussions by members of the New South Wales Cricket Association, the colours were reportedly referred to as \"gum-tree green\" and \"wattle-gold\". Australian national colours have switched...",
+        "url": "https://en.wikipedia.org/wiki/National_colours_of_Australia"
+      },
+      {
+        "source": "Green and Gold - Google Arts & Culture",
+        "text": "Australia's sporting colours have been worn by athletes for over a century and have become the official colours of the nation.\n Australia\u2019s familiar sporting colours of green and gold have been worn by our sportsmen and sportswomen for more than a century. Although these colours are commonly used by almost all Australian athletes today, green and gold have not always been the colours used to represent the nation on the sporting arena.\n Photograph of Australian XI, 1878 (1878)Melbourne Cricket Club\nThe first sporting team to formally represent Australia was the cricket team to tour England and America in 1878. They wore striped blue and white caps and blazers and adopted pale blue as their team colour: the colour of the East Melbourne Cricket Club.\nPrint, \"The Australian Cricketers\" 1882...",
+        "url": "https://artsandculture.google.com/story/green-and-gold-national-sports-museum/XQXRz9U49H2_Kg?hl=en"
+      }
+    ]
+  },
+  {
+    "id": "EXT030",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to misinformation",
+    "expected_conflict_type": null,
+    "scored": false,
+    "question": "How many FIFA World Cups has Argentina won?",
+    "reference_answer": "3",
+    "evidence": [
+      {
+        "source": "Argentina at the FIFA World Cup - Wikipedia",
+        "text": "Publication Year: 2024\nThis is a record of Argentina's results at the FIFA World Cup. Argentina is one of the most successful teams in the tournament's history, having won three World Cups: in 1978, 1986, and 2022. Argentina has also been runner-up three times: in 1930, 1990 and 2014. In 18 World Cup tournaments, Argentina has 47 victories in 88 matches. The team was present in all but four of the World Cups, being behind only Brazil and Germany in number of appearances.\nWorld Cup Finals\nThe inaugural FIFA World Cup tournament culminated with Argentina facing hosts and current Olympic champions Uruguay. The match was turned twice: Argentina went into half-time with a 2\u20131 lead in spite of an early goal for Uruguay, but the hosts ultimately won 4\u20132. Guillermo St\u00e1bile, one of Argentina's scorers, became the...",
+        "url": "https://en.wikipedia.org/wiki/Argentina_at_the_FIFA_World_Cup"
+      },
+      {
+        "source": "How many times Argentina won FIFA World Cup? - Olympics.com",
+        "text": "Argentina in FIFA World Cups: Of Diego Maradona\u2019s feat of gold and Leo Messi\u2019s redemption\nArgentina have for long been one of the finest football teams in the world and enjoy a storied past that includes some stellar performances at the FIFA World Cup.\n Nicknamed La Albiceleste, the Argentina football team has made 18 appearances at the FIFA World Cup, missing the competition only four times in 22 editions.\n Argentina withdrew from the football World Cup in 1938, 1950 and 1954 due to disagreements with hosting rights and political reasons. The team\u2019s absence from the competition lasted for 24 years since no FIFA World Cup was held in 1942 and 1946 due to the Second World War.\n The South American football giants failed to qualify for the quadrennial event for the first and only time in...",
+        "url": "https://olympics.com/en/news/fifa-world-cup-football-titles-argentina"
+      },
+      {
+        "source": "Countries with the most men's World Cup titles 1930-2022 - Statista",
+        "text": "Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide.\n For more details, visit our website.\nCountries with the most men's World Cup titles 1930-2022\nBrazil have won more FIFA World Cup titles than any other country, with a total of five. Meanwhile, Germany and Italy rank joint-second, with four titles each. Argentina, winners of the 2022 tournament, have won three World Cups.\n Currently, you are using a shared account. To use individual functions (e.g., mark statistics as favourites, set\nstatistic alerts) please log in with your personal account.\n If you are an admin, please authenticate by logging in again.\n Transfermarkt. (December 18, 2022). Countries with...",
+        "url": "https://www.statista.com/statistics/266464/number-of-world-cup-titles-won-by-country-since-1930/"
+      }
+    ]
+  },
+  {
+    "id": "EXT031",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "when did channel 5 start",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Timeline of Channel 5 - Wikipedia",
+        "text": "Publication Year: 2025\n8 February.[11]\n30 March\nChannel 5 launches at 6pm with the Spice Girls singing a cover version of Manfred Mann's hit \"5-4-3-2-1\" as \"1-2-3-4-5\".[12] Around 65% of the UK is able to receive the channel.\n Channel 5 launches its overnight coverage of American sports when it broadcasts the first edition of Live & Dangerous. The programme broadcasts on weekdays through the night and includes live coverage of American sport as well as highlights from America and other global sports events. The first programme features the opening day of the 1997 Major League Baseball season.\n The first edition of 5 News is broadcast with Kirsty Young perching on the edge of a desk in a bid to present the news in a more informal way. The channel also provides hourly news updates on weekdays on the hour, every...",
+        "url": "https://en.wikipedia.org/wiki/Timeline_of_Channel_5"
+      },
+      {
+        "source": "Channel 5 (British TV channel) - Wikipedia",
+        "text": "Publication Year: 2025\nAfter re-tuning, around 65% of the population's televisions could view the channel on launch night, and a month after launch, the channel launched on satellite to provide coverage to the rest of the UK.[14]\nLaunch and RTL ownership\nThe channel's launch on 30 March 1997 (Easter Sunday) at 6 p.m. After a brief voice over by continuity presenter David Vickery, the first broadcast was the Spice Girls singing a cover version of Manfred Mann's hit \"5-4-3-2-1\" as \"1-2-3-4-5\",[15][16] for which they were reportedly paid around \u00a3500,000.[17] Presenters Tim Vine and Julia Bradbury were the first people to introduce the nation to the UK's fifth terrestrial channel with half an hour of previews.\n The rest of the Channel 5 launch night schedule, along with the official viewing figures, was as...",
+        "url": "https://en.wikipedia.org/wiki/Channel_5_(British_TV_channel)"
+      }
+    ]
+  },
+  {
+    "id": "EXT032",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "How many books has Shoshana Zuboff published?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Shoshana Zuboff - Wikipedia",
+        "text": "Shoshana Zuboff (born November 18, 1951)[2] is an American author, professor, social psychologist, philosopher, and scholar.\n Zuboff is the author of the books In the Age of the Smart Machine: The Future of Work and Power and The Support Economy: Why Corporations Are Failing Individuals and the Next Episode of Capitalism, co-authored with James Maxmin. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, integrates core themes of her research: the Digital Revolution, the evolution of capitalism, the historical emergence of psychological individuality, and the conditions for human development.[2]\nZuboff's work is the source of many original concepts including \"surveillance capitalism\", \"instrumentarian power\", the \"division of learning in society\",...",
+        "url": "https://en.wikipedia.org/wiki/Shoshana_Zuboff"
+      },
+      {
+        "source": "Shoshana Zuboff",
+        "text": "Her recent masterwork, The Age of Surveillance Capitalism, available in 26 languages, has been hailed as the tech industry\u2019s Silent Spring, the Das Kapital and the Wealth of Nations of the 21st Century. Her work has been recognized with the Axel Springer Award (2019), the EPIC Lifetime Achievement Award (2021), and the inaugural Global Privacy Assembly Giovanni Buttarelli Award (2021). Professor Zuboff has received honorary degrees from the University of Amsterdam, the University of Lucerne, the Copenhagen Business School, and McGill University. She is the Charles Edward Wilson Professor Emeritus Harvard Business School and a faculty associate at the Harvard Kennedy School\u2019s Carr Center for Human Rights.",
+        "url": "https://shoshanazuboff.com/book/shoshana/"
+      }
+    ]
+  },
+  {
+    "id": "EXT033",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "What is the name of the world's fastest supercomputer?",
+    "reference_answer": "EL-Capitan ",
+    "evidence": [
+      {
+        "source": "TOP500 - Wikipedia",
+        "text": "Publication Year: 2024\nAfter experimenting with metrics based on processor count in 1992, the idea arose at the University of Mannheim to use a detailed listing of installed systems as the basis. In early 1993, Jack Dongarra was persuaded to join the project with his LINPACK benchmarks. A first test version was produced in May 1993, partly based on data available on the Internet, including the following sources:[4][5]\n\"List of the World's Most Powerful Computing Sites\" maintained by Gunter Ahrendt[6]\nDavid Kahaner, the director of the Asian Technology Information Program (ATIP);[7] published a report in 1992, titled \"Kahaner Report on Supercomputer in Japan\"[5] which had an immense amount of data.[citation needed]\nThe information from those sources was used for the first two lists. Since June 1993, the TOP500...",
+        "url": "https://en.wikipedia.org/wiki/TOP500"
+      },
+      {
+        "source": "The 7 most powerful supercomputers in the world right now",
+        "text": "Supercomputers work based on the same principles as everyday computers, but their performance levels are much higher and they look more like the classic mainframes of old. Unlike normal desktop PCs or laptops, they process massive data sets and perform calculations at incredible speeds. They're the fastest computers in the world, according to IBM, and require a massive amount of infrastructure to operate \u2014 including advanced cooling systems.\n Architecturally, they are also fitted with many more components than normal PCs. Your laptop might have one central processing unit (CPU) and one graphics processing unit (GPU), but one supercomputer may have thousands upon thousands of CPUs and GPUs \u2014 each of them considerably more powerful than those you find off the shelf.\n Their performance is...",
+        "url": "https://www.livescience.com/technology/computing/top-7-most-powerful-supercomputers-in-the-world-right-now"
+      },
+      {
+        "source": "US' El Capitan Is Now the World's Fastest Supercomputer | PCMag",
+        "text": "Following years of development, the US' El Capitan supercomputer now ranks as the world's fastest, dethroning the previous champion, Frontier, another US exascale computer.\n In a recent verified test, El Capitan achieved 1.742 exaFLOPs of performance or 1.742 quintillion calculations per second, according to Lawrence Livermore National Laboratory in California, where the supercomputer is based.\nTop500, which benchmarks and catalogs the world\u2019s fastest supercomputers, previously ranked Frontier and Aurora as the two top machines. In this latest round, the AMD-powered Frontier was benchmarked at 1.35 exaFLOPs, while its top theoretical speed was rated at 2.05 exaFLOPs. The same machine can also access up to 24 megawatts of power.\n In contrast, El Capitan\u2014which also uses AMD chips\u2014promises a...",
+        "url": "https://www.pcmag.com/news/us-el-capitan-is-now-the-worlds-fastest-supercomputer-top500"
+      }
+    ]
+  },
+  {
+    "id": "EXT034",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Do cameras reduce crime?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "UK CCTV and crime prevention statistics: your FAQs answered",
+        "text": "-date figure.\n There are 4 types of camera systems to consider when making a total count:\n So how many private cameras are there in London? Given what we know about private businesses and homeowners, the BSIA estimates that privately-owned cameras could outnumber publicly-owned ones by 70 to 1.\n However, violent crime was not affected by the presence of cameras. In these cases, video footage instead becomes an invaluable tool to track down suspects afterwards. Recent events such as the Charlie Hebdo attack, the Boston Marathon bombing and the 7th July attacks in London all relied heavily on CCTV footage to identify and track down suspects.\n Based on the studies the toolkit consulted, they conclude that CCTV\u2019s effectiveness depends on how and where it is used.\n How does CCTV work to reduce...",
+        "url": "https://www.calipsa.io/blog/cctv-statistics-in-the-uk-your-questions-answered"
+      },
+      {
+        "source": "Home Research Crime reduction toolkit Closed-circuit television ...",
+        "text": "CCTV implemented on its own or alongside one other intervention did not have a statistically significant effect in reducing crime.\n Reviews one and two both linked the effectiveness of CCTV schemes to the level of coverage provided by the camera. Review two reported a statistically significant correlation between crime reduction and schemes with a higher degree of camera coverage.\n Reviews two and three also observed that the types of camera tested in studies varied (for example, pan, tilt, and zoom cameras). The reviews noted that their technical specification (for example, ability to record in reduced light) should be considered during implementation. Success was linked to public and political support \u2013 which was thought to vary by context (for example, with cameras tending to attract...",
+        "url": "https://www.college.police.uk/research/crime-reduction-toolkit/cctv"
+      },
+      {
+        "source": "The effect of CCTV on public safety: Research roundup - The ...",
+        "text": "Results: First, the influence of environmental features differed across crime categories, with specific environs being related to the reduction of certain crimes and the increase of others. Second, CCTV-generated enforcement was related to the reduction of overall crime, violent crime and theft-from-auto. Third, obstructions to CCTV line-of-sight caused by immovable objects were related to increased levels of auto theft and decreased levels of violent crime, theft from auto and robbery. Conclusions: The findings suggest that CCTV operations should be designed in a manner that heightens their deterrent effect. Specifically, police should account for the presence of crime generators/attractors and ground-level obstructions when selecting camera sites, and design the operational strategy in...",
+        "url": "https://journalistsresource.org/politics-and-government/surveillance-cameras-and-crime/"
+      }
+    ]
+  },
+  {
+    "id": "EXT035",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "conditional_conflict",
+    "scored": true,
+    "question": "Is a 'pled' a correct past tense of 'plead'?",
+    "reference_answer": "Yes",
+    "evidence": [
+      {
+        "source": "Pleaded or Pled? | Grammarly Blog",
+        "text": "Pleaded or Pled?\n How serious does an argument about the proper way to form a past tense of a verb have to be for a bunch of lawyers to get involved? Not too serious, apparently, although the argument in question is a very heated one, and it shows no signs of cooling down. The word at the heart of all this controversy is the past tense of the verb \u201cto plead,\u201d which comes in two forms\u2014pleaded and pled. And both of them are correct. Sort of.\nPlead definition and examples\nThere are three major ways you can use the verb plead (pronounced PLEED):\n1\nTo say that someone is making a serious and emotional appeal:\n\u201cEverything that is right or reasonable pleads for separation. The blood of the slain, the weeping voice of nature cries, \u2019tis time to part.\n\u2014Thomas Paine, Common Sense and Other...",
+        "url": "https://www.grammarly.com/blog/pleaded-pled/"
+      },
+      {
+        "source": "Pleaded or Pled - Definition & Examples",
+        "text": "But both forms are considered acceptable in modern English.\n Many people think that pled is the preferred term in the UK, but that\u2019s not the case. Both are right; both are used in America, Canada, and the UK. However, Australia seems to have a hat-on for the spelling pled, so use pleaded if you\u2019re writing for an Aussie audience.\n What Is the Past Tense of Plead?\nAs I\u2019ve already mentioned, the past tense of \u201cplead\u201d can be either \u201cpleaded\u201d or \u201cpled.\u201d Like someone could have pleaded/pled with the judge for mercy. See how both forms are used interchangeably? Neither is considered incorrect.\n Is It Pled Guilty or Plead Guilty?\n When we think of pleading guilty, we\u2019ll see \u201cpleaded\u201d more commonly used than the variant \u201cpled.\u201d But, again, you can use either form if you want. They pleaded guilty,...",
+        "url": "https://grammarist.com/usage/pleaded-pled/"
+      },
+      {
+        "source": "The case of \"pleaded\" v. \"pled\"",
+        "text": "The case of \"pleaded\" v. \"pled\"\nThe courtroom may not be the best place to ponder grammar and language issues. If you do find yourself in a courtroom, it's likely you've got bigger problems on your hands -- especially if you're the defendant.\n Assuming you're a word nerd like us though, you may find yourself distracted by a grammatical question regarding the verb \"to plead. \"\nThere's no mystery when it comes to the present tense -- \"I plead not guilty.\" But if someone asks you about your plea later, do you tell them you \"pleaded\" not guilty or \"pled\" not guilty?\nHistorically, \"pleaded\" has been considered the correct past tense and past participle form for several centuries now. But there's good cause for thinking that it should be \"pled. \"\nThink about \"bleed.\" You wouldn't say \"bleeded\"...",
+        "url": "https://www.michiganradio.org/arts-culture/2018-02-25/the-case-of-pleaded-v-pled"
+      }
+    ]
+  },
+  {
+    "id": "EXT036",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "when was the first temple built in jerusalem?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Solomon's Temple - Wikipedia",
+        "text": "Publication Year: 2025\nSolomon's Temple, also known as the First Temple (Hebrew: \u05d1\u05b7\u05bc\u05d9\u05b4\u05ea \u05e8\u05b4\u05d0\u05e9\u05c1\u05d5\u05b9\u05df\u200e, romanized: Bayyit R\u012b\u0161\u014dn, lit.'First Temple'), was a biblical Temple in Jerusalem believed to have existed between the 10th and 6th centuries BCE. Its description is largely based on narratives in the Hebrew Bible, in which it was commissioned by biblical king Solomon before being destroyed during the Siege of Jerusalem by Nebuchadnezzar II of the Neo-Babylonian Empire in 587 BCE.[1] No excavations are allowed on the Temple Mount, and no positively identified remains of the destroyed temple have been found. Most modern scholars agree that the First Temple existed on the Temple Mount in Jerusalem by the time of the Babylonian siege, and there is significant debate among scholars over the date of its construction and...",
+        "url": "https://en.wikipedia.org/wiki/Solomon%27s_Temple"
+      },
+      {
+        "source": "Temple of Jerusalem | Description, History, & Significance - Britannica",
+        "text": "Publication Year: 1998\nTemple of Jerusalem, either of two temples that were the centre of worship and national identity in ancient Israel.\n In the early years of the Israelite kingdom, the Ark of the Covenant was periodically moved about among several sanctuaries, especially those of Shechem and Shiloh. After King David\u2019s capture of Jerusalem, however, the Ark was moved to that city. This action joined Israel\u2019s major religious object with the monarchy and the city itself into a central symbol of union of the Israelite tribes. As the site for a future temple, David chose Mount Moriah, or the Temple Mount, where it was believed Abraham had built the altar on which to sacrifice his son Isaac.\n The First Temple was constructed during the reign of David\u2019s son, Solomon, and completed in 957 bce. Other sanctuaries...",
+        "url": "https://www.britannica.com/topic/Temple-of-Jerusalem"
+      },
+      {
+        "source": "The First Temple - Solomon's Temple - Jewish Virtual Library",
+        "text": "Publication Year: 2025\n3:4- \"And the porch that was before the house, the length of it, according to the breadth of the house, was twenty cubits, and the height a hundred and twenty; and he overlaid it within with pure gold. \"\nSolomon spared no expense for the building's creation. He ordered vast quantities of cedar wood from King Hiram of Tyre (I Kings 5:20\u00ad25), had huge blocks of the choicest stone quarried, and commanded that the building's foundation be laid with hewn stone. To complete the massive project, he imposed forced labor on all his subjects, drafting people for work shifts that sometimes lasted a month at a time. Some 3,300 officials were appointed to oversee the Temple's erection (5:27\u00ad30). Solomon assumed such heavy debts in building the Temple that he is forced to pay off King Hiram by handing...",
+        "url": "https://www.jewishvirtuallibrary.org/the-first-temple-solomon-s-temple"
+      }
+    ]
+  },
+  {
+    "id": "EXT037",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "How many accounts have exceeded 100 million followers on Instagram?",
+    "reference_answer": "at least 5 accounts",
+    "evidence": [
+      {
+        "source": "List of most-followed Instagram accounts - Wikipedia",
+        "text": "Publication Year: 2025\nList of most-followed Instagram accounts\nThis page shows the 50 accounts with the most followers on the social media platform Instagram, with each amount rounded down to the nearest million followers.[1] The most-followed account is Instagram's own account. The most-followed person is Portuguese footballer Cristiano Ronaldo.\n List\nCristiano Ronaldo is the most-followed person, sportsperson, footballer and European on Instagram, with over 651 million followers. Lionel Messi is the most-followed South American on Instagram, with over 505 million followers. Selena Gomez is the most-followed woman, actress, singer, and North American on Instagram, with over 421 million followers. Virat Kohli is the most-followed Asian and cricketer on Instagram, with over 271 million followers. Narendra Modi...",
+        "url": "https://en.wikipedia.org/wiki/List_of_most-followed_Instagram_accounts"
+      },
+      {
+        "source": "Instagram Statistics: Key Demographic and User Numbers - Backlinko",
+        "text": "Publication Year: 2025\nAnother interesting estimate they\u2019ve made is about the US growth of the platform:\nUS Instagram Monthly Active User Growth Rate\n2020 to 2021 \u2013 4.31% year-over-year change\n2021 to 2022 \u2013 3.98% year-over-year change\n2022 to 2023 \u2013 4.05% year-over-year change\n2023 to 2024 \u2013 3.75% year-over-year change\n2024 to 2025 \u2013 3.47% year-over-year change\nNote: Data above includes forecasts.\n As the platform has become more accessible to the world with new features like instant translation, Instagram has seen some impressive growth outside of the US.\n What you have to consider with Instagram\u2019s growth is that there are only 5.78 billion mobile users worldwide, and so far, a whopping 34.6% of them have the app.\n Most Instagram Users by Country\nIn 2025, 90.13% of Instagram\u2019s 1.74 billion users that can be...",
+        "url": "https://backlinko.com/instagram-users"
+      }
+    ]
+  },
+  {
+    "id": "EXT038",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Do birds mate for life?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "What Types of Birds Mate for Life? - Birds and Blooms",
+        "text": "What Types of Birds Mate for Life?\n While there are monogamous birds out there, bird mating habits vary by species. Learn which birds mate for life, and which move on.\n Courtesy Tonya SharpBald eagle pairs mate for life\nWhen it comes to love and marriage, bird mating habits aren\u2019t much different than people. Birds meet and then carry on a courtship that includes dinner dates, dancing and just hanging out together. Birds, especially males, sing, show off a lot and wear flashy adornments just to impress females. Then if the two birds like each other, they become a pair, build a nest, raise youngsters, school them and send them off to form their own families. Also like people, pairs are not always faithful and will have flings with individuals other than their own mates. If the marriage...",
+        "url": "https://www.birdsandblooms.com/birding/birding-basics/birds-mate-life/"
+      },
+      {
+        "source": "Till Death Do Them Part: 8 Birds that Mate for Life | Audubon",
+        "text": "Birds Tell Us to Act on Climate\nLove is in the air. This Valentine\u2019s Day, take inspiration from some of the great bird species that mate for life. Here are just a few examples of the many winged wonders that fall into this category.\n Black Vulture\nAverage clutch size: 2 eggs Cool fact: This vulture species doesn\u2019t build a nest, but rather lays its eggs on the ground or in hollow cavities.\n Yes, even Black Vultures stick together. \u201cOne bird, presumed to be male, chases a presumed female through the air and periodically dives at her\u201d as part of the mating ritual, according to Birds of North America online. They form such a tight bond, in fact, that they hang out year round\u2014not just during breeding season.\n Bald Eagle\nAverage clutch size: 1-3 eggs Cool fact: Measuring six feet across and...",
+        "url": "https://www.audubon.org/news/till-death-do-them-part-8-birds-mate-life"
+      },
+      {
+        "source": "Seven animals who mate for life | BBC Earth",
+        "text": "Seven animals who mate for life\nFinding that special someone in your life is a beautiful thing, but when it comes to animals it's also quite rare.\n Although an estimated 90% of bird species partner up for life, the same can\u2019t be said for mammals.\n According to Hemanth P. Niar and Larry J Young\u2019s study, Genes to Brain to Behavior, it is estimated that only 3% to 5% of all mammal species (excluding humans) form monogamous relationships. And even then, it\u2019s complicated.\n But despite their rarity, life-long partnerships throughout the animal kingdom can be found, from canine power couples to worms who take the idea of becoming one to a whole new level. Here are seven animals that are in it for the long haul.\n More on Nature\nWolves \u2013 Power couples\nIn a grey wolf pack, it is usually only the...",
+        "url": "https://www.bbcearth.com/news/seven-animals-who-mate-for-life"
+      }
+    ]
+  },
+  {
+    "id": "EXT039",
+    "dataset_source": "qacc",
+    "original_conflict_type": "Conflict due to misinformation",
+    "expected_conflict_type": null,
+    "scored": false,
+    "question": "Where did the expression a bridge too far come from?",
+    "reference_answer": "Operation Market Garden during World War II. ",
+    "evidence": [
+      {
+        "source": "a bridge too far - Wiktionary, the free dictionary",
+        "text": "Publication Year: 2024\nNoun\nCloning was an interesting concept. Cloning body parts was again just man's search for immortality riding on the back of naive altruistic medicinal benevolence. But cloning a person was a bridge too far.\n 2021 April 28, Zachary Small, quoting William Goetzmann, \u201cAs Auctioneers and Artists Rush Into NFTs, Many Collectors Stay Away\u201d, in New York Times\u200e[1]:\n\u201cMaybe we are seeing a similar phenomenon with NFTs \u2014 but it could be a bridge too far for people with collections in other media.\u201d",
+        "url": "https://en.wiktionary.org/wiki/a_bridge_too_far"
+      }
+    ]
+  },
+  {
+    "id": "EXT040",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Does Brain Training actually improve cognitive function?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Cognitive Health and Older Adults | National Institute on Aging",
+        "text": "Work or volunteer. These types of mentally stimulating activities have not been proven to prevent serious cognitive impairment or Alzheimer's disease, but they can be fun! Plus, findings from observational studies suggest that some informal mentally stimulating activities, such as reading or playing games, may lower the risk of Alzheimer\u2019s-related cognitive impairment and dementia.\n Some scientists have argued that such activities may protect the brain by establishing \"cognitive reserve.\" They may help the brain become more adaptable in some mental functions so it can compensate for age-related brain changes and health conditions that affect the brain.\n Some types of cognitive training conducted in a research setting also seem to have benefits. For the Advanced Cognitive Training for...",
+        "url": "https://www.nia.nih.gov/health/cognitive-health-and-older-adults"
+      },
+      {
+        "source": "Brain exercises: 22 ways to improve memory, cognition, and creativity",
+        "text": "A 2019 study found that people with more frequent social contact were less likely to experience cognitive decline and dementia.\n Increasing one\u2019s vocabulary range is a great way to broaden knowledge while exercising the brain.\n A simple way to increase vocabulary is to read a book or watch a TV program and note down any words that are unfamiliar. A person can then use a dictionary to look up the meaning of the word and think up ways to use the word in a sentence.\n A 2019 review notes that bilingualism increases and strengthens connectivity between different areas of the brain. The researchers propose that this enhanced connectivity may play a role in delaying the onset of Alzheimer\u2019s disease and other forms of dementia.\n Tai chi is a form of physical exercise that involves gentle body...",
+        "url": "https://www.medicalnewstoday.com/articles/brain-exercises"
+      },
+      {
+        "source": "Putting brain training to the test",
+        "text": "Abstract\n'Brain training', or the goal of improved cognitive function through the regular use of computerized tests, is a multimillion-pound industry, yet in our view scientific evidence to support its efficacy is lacking. Modest effects have been reported in some studies of older individuals and preschool children, and video-game players outperform non-players on some tests of visual attention. However, the widely held belief that commercially available computerized brain-training programs improve general cognitive function in the wider population in our opinion lacks empirical support. The central question is not whether performance on cognitive tests can be improved by training, but rather, whether those benefits transfer to other untrained tasks or lead to any general improvement in...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20407435/"
+      }
+    ]
+  },
+  {
+    "id": "EXT041",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "what is the biggest country in europe by population?",
+    "reference_answer": "Russia",
+    "evidence": [
+      {
+        "source": "Population of Europe in 2023 by country - Statista",
+        "text": "Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide.\n For more details, visit our website.\n Why Statista\nSee why Statista is the trusted choice for reliable data and insights. We provide one platform to simplify research and support your strategic decisions. Read more\nPopulation of Europe in 2023 by country\nIn 2022, Russia had the largest population among European countries at 144.7 million people. The next largest countries in terms of their population size were Turkey at 85 million, Germany at 83.4 million, the United Kingdom at 67.4 million, and France at 65.6 million. Europe is also home to some of the world\u2019s smallest countries, such as the microstates...",
+        "url": "https://www.statista.com/statistics/685846/population-of-selected-european-countries/"
+      },
+      {
+        "source": "Key facts and figures | European Union",
+        "text": "Publication Year: 2023\nInstitutional setup: the EU has a unique setup of institutions, bodies and agencies who all work for the common interests of the EU and European people. 7 European institutions, 9 EU bodies and over 30 decentralised agencies with specific roles are spread across the EU.\n Elections: European elections are held every five years to elect new Members of the European Parliament.\n People, size and open borders\nPopulation: more than 448 million inhabitants who account for 5.6 % of the world\u2019s population.\n Population evolution: experts estimate that the EU population will grow steadily until the year 2026, after which it is projected to fall back to 420 million by 2100.\n Multicultural societies: around 41 million EU residents are foreign citizens. Almost 14 million of them are citizens of EU...",
+        "url": "https://european-union.europa.eu/principles-countries-history/facts-and-figures-european-union_en"
+      }
+    ]
+  },
+  {
+    "id": "EXT042",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "who had the right to vote",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "History of Voting",
+        "text": "HISTORY OF VOTING\n1776\nWhen this country announced its independence from Britain, voting rights were based on property ownership. This typically meant that those voting were white males over the age of 21 of Protestant religion.\n 1787\n In the newly drafted Constitution, states were given the power to set voting mandates and most were still favorable to white males who owned property.\n1830\nMany states had dropped religion and property ownership as requirements for voting and with such a large percentage of the population at the polls, political parties were beginning to develop.\n 1868\n The 14th Amendment recognizes African Americans as citizens, giving them the right to vote. However, state officials continue attempts to deny this right.\n1870\nAfrican Americans were given the right to vote...",
+        "url": "https://www.flaglerelections.com/Voter-Outreach/History-of-Voting"
+      },
+      {
+        "source": "Voting Rights: A Short History - Carnegie Corporation of New York",
+        "text": "1787 in Philadelphia, where the Founding Fathers drafted the Constitution. (Photo: Wikimedia)\n Despite their belief in the virtues of democracy, the founders of the United States accepted and endorsed severe limits on voting. The U.S. Constitution originally left it to states to determine who is qualified to vote in elections. For decades, state legislatures generally restricted voting to white males who owned property. Some states also employed religious tests to ensure that only Christian men could vote.\n1800s: Official barriers to voting start to recede\nThis 19th-century illustrated engraving shows black men recently emancipated from slavery participating in an election in New Orleans in 1867. (Photo: Wikimedia)\n During the early part of the 19th century, state legislatures begin to...",
+        "url": "https://www.carnegie.org/our-work/article/voting-rights-timeline/"
+      }
+    ]
+  },
+  {
+    "id": "EXT043",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "Do we know what causes Alzheimer's disease?",
+    "reference_answer": "No",
+    "evidence": [
+      {
+        "source": "What Causes Alzheimer's Disease? | National Institute on Aging",
+        "text": "What Causes Alzheimer's Disease?\nScientists don't yet fully understand what causes Alzheimer's disease in most people. The causes probably include a combination of age-related changes in the brain, along with genetic, environmental, and lifestyle factors. The importance of any one of these factors in increasing or decreasing the risk of Alzheimer's disease may differ from person to person.\n Alzheimer's disease is a progressive brain disease. It is characterized by changes in the brain\u2014including amyloid plaques and neurofibrillary, or tau, tangles\u2014that result in loss of neurons and their connections. These and other changes affect a person\u2019s ability to remember and think and, eventually, to live independently.\n Aging and Alzheimer's risk\nOlder age does not cause Alzheimer\u2019s, but it is the...",
+        "url": "https://www.nia.nih.gov/health/what-causes-alzheimers-disease"
+      },
+      {
+        "source": "What Causes Alzheimer's Disease? | Alzheimer's Association",
+        "text": "Causes and Risk Factors for Alzheimer's Disease\nResearchers believe there isn't a single cause of Alzheimer's disease. It likely develops from multiple factors, such as genetics, lifestyle and environment. Scientists have identified factors that increase the risk of Alzheimer\u2019s. While some risk factors \u2014 age, family history and heredity \u2014 can't be changed, emerging evidence suggests there may be other factors we can influence.\n Age\nThe greatest known risk factor for Alzheimer\u2019s and other dementias is increasing age, but these disorders are not a normal part of aging. While age increases risk, it is not a direct cause of Alzheimer's.\n Most individuals with the disease are 65 and older. After age 65, the risk of Alzheimer's doubles every five years. After age 85, the risk reaches nearly...",
+        "url": "https://www.alz.org/alzheimers-dementia/what-is-alzheimers/causes-and-risk-factors"
+      },
+      {
+        "source": "What is Alzheimer's Disease? | CDC",
+        "text": "Who has Alzheimer\u2019s Disease?\n In 2020, as many as 5.8 million Americans were living with Alzheimer\u2019s disease.1\nYounger people may get Alzheimer\u2019s disease, but it is less common.\n The number of people living with the disease doubles every 5 years beyond age 65.\n This number is projected to nearly triple to 14 million people by 2060.1\nSymptoms of the disease can first appear after age 60, and the risk increases with age.\n What is known about Alzheimer\u2019s Disease?\nScientists do not yet fully understand what causes Alzheimer\u2019s disease. There likely is not a single cause but rather several factors that can affect each person differently.\n Age is the best known risk factor for Alzheimer\u2019s disease.\n Family history\u2014researchers believe that genetics may play a role in developing Alzheimer\u2019s...",
+        "url": "https://www.cdc.gov/aging/aginginfo/alzheimers.htm"
+      }
+    ]
+  },
+  {
+    "id": "EXT044",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "how many seasons are there for lost girl",
+    "reference_answer": "5",
+    "evidence": [
+      {
+        "source": "List of Lost Girl episodes - Wikipedia",
+        "text": "Publication Year: 2024\nList of Lost Girl episodes\nLost Girl is a Canadian supernaturaldrama television series[1] that aired on Showcase for five seasons, from September 12, 2010, to October 25, 2015. It follows the life of a bisexual[2][3]succubus named Bo, played by Anna Silk,[4][5] as she learns to control her superhuman abilities, help those in need, and discover the truth about her origins.\n Following good ratings and positive reviews, it was renewed for a second season on November 12, 2010 (two months after its premiere),[9] and the episodes order afterwards increased to 22 episodes;[10] a third season on December 9, 2011;[11] a fourth season on February 28, 2013;[12] and a fifth on February 27, 2014.[13] On August 25, 2014, Showcase announced that the fifth season would be the last, with the original...",
+        "url": "https://en.wikipedia.org/wiki/List_of_Lost_Girl_episodes"
+      },
+      {
+        "source": "Lost Girl (TV Series 2010\u20132016) - IMDb",
+        "text": "Publication Year: 2012\nLost Girl\nWhen a succubus finds it difficult to adapt with her unusual traits inspite of being born in a human family, she sets off on a journey to find out the truth of her origin. When a succubus finds it difficult to adapt with her unusual traits inspite of being born in a human family, she sets off on a journey to find out the truth of her origin. When a succubus finds it difficult to adapt with her unusual traits inspite of being born in a human family, she sets off on a journey to find out the truth of her origin.\n Storyline\nDid you know\nBo Dennis: [Opening Narration] Life is hard when you don't know who you are. It's harder when you don't know *what* you are. My love carries a death sentence. I was lost for years, searching while hiding, only to find that I belong to a world hidden...",
+        "url": "https://www.imdb.com/title/tt1429449/"
+      },
+      {
+        "source": "Lost Girl - The Complete Series [DVD] : Movies & TV - Amazon.com",
+        "text": "Publication Year: 2019\nLost Girl - The Complete Series [DVD]\nPlayback Region 2 : This will not play on most DVD players sold in the U.S., U.S. Territories, Canada, and Bermuda. See other DVD options under \u201cOther Formats & Versions\u201d. Learn more about DVD region specificationshere\nDescription\nThe complete five seasons of Lost Girl follows the life of a succubus named Bo, as she learns to control her abilities, and discovers the truth about her origins. Starring Anna Silk as sexy succubus Bo, Ksenia Solo as perky sidekick Kenzi, and Kris Holden-Ried as light fae hunk Dyson.\nCarbon impact\nCarbonfree Certified\nEach Carbonfree Certified product goes through a cradle-to-grave assessment to determine the product\u2019s carbon footprint. The carbon emissions associated with the product are reduced where possible, and...",
+        "url": "https://www.amazon.com/Lost-Girl-Complete-DVD/dp/B07SVN3QCQ"
+      }
+    ]
+  },
+  {
+    "id": "EXT045",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "What is the title of Taylor Swift's most recent studio album?",
+    "reference_answer": "The Tortured Poets Department",
+    "evidence": [
+      {
+        "source": "Taylor Swift albums in order - Cosmopolitan",
+        "text": "Taylor has four rerecorded albums which have been released in the last few years: Fearless (Taylor's Version), Red (Taylor's Version), Speak Now (Taylor's Version) and now her latest re-release 1989 (Taylor's Version). This brings the total to 14, but don't stop counting yet.\n There's then the four live albums: Live From Clear Channel Stripped 2008, Speak Now World Tour Live, Folklore: The Long Pond Studio Sessions and Lover (Live From Paris).\n With these four lives albums, it takes our grand total of Taylor Swift albums to a beyond impressive 19 albums. Seriously, does Taylor ever sleep?\n Which album is Taylor re-recording next?\n So far Taylor has re-recorded four of the six albums she created at Big Machine Records: Fearless (Taylor's Version), Red (Taylor's Version), Speak Now...",
+        "url": "https://www.cosmopolitan.com/uk/entertainment/a44471722/taylor-swift-albums/"
+      },
+      {
+        "source": "Taylor Swift albums in order - Taylor's Versions and first albums",
+        "text": "The star unveiled her first album in 2006 and has released 14 in total, as well as multiple re-releases of previous albums.\n The most recent of these re-recordings is 1989 (Taylor's Version), which was originally released in 2014 and features major hits including Bad Blood, Shake It off and Blank Space.\n While we wait for the release of Reputation, one of two studio albums left to re-release under the 'Taylor's Version' banner (her first studio album, Taylor Swift, is also pending re-release), now's a good time to dive into Swift's discography.\n Authors\nMolly Moss is a Trends Writer for Radio Times, covering the latest trends across TV, film and more. She has an MA in Newspaper Journalism and has previously written for publications including The Guardian, The Times and The Sun Online.",
+        "url": "https://www.radiotimes.com/audio/taylor-swift-albums-in-order/"
+      },
+      {
+        "source": "Every Taylor Swift Album In Order Of Release - Forbes",
+        "text": "13th chart-topping album.\n1989 (Taylor\u2019s Version) had seven songs in the Billboard top 10 at once, including three \u201cFrom the Vault\u201d selections. The Kendrick Lamar remix of \u201cBad Blood\u201d drew particularly strong critical and fan response. The rerelease came nine years to the date after the original 1989 album came out. You can listen to 1989 (Taylor\u2019s Version) on Spotify, YouTube Music, Apple Music, iHeartRadio, Deezer and Pandora.\n Taylor Swift accepts the Favorite Pop Album award for \"Red (Taylor\u2019s Version)\" onstage during the ... [+] 2022 American Music Awards at Microsoft Theater.\n During her 2024 Grammys acceptance speech for Best Pop Vocal Album for Midnights, the singer announced a new Taylor Swift album, titled The Tortured Poets Department, which was released on April 19, 2024 to a...",
+        "url": "https://www.forbes.com/sites/entertainment/article/taylor-swift-albums/"
+      }
+    ]
+  },
+  {
+    "id": "EXT046",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Who is the latest MotoGP World Riders' Champion?",
+    "reference_answer": "Jorge Martin",
+    "evidence": [
+      {
+        "source": "List of Grand Prix motorcycle racing World Riders' Champions by year",
+        "text": "Publication Year: 2024\nSummary\nGrand Prix motorcycle racing is the premier championship of motorcycleroad racing, which has been divided into four classes: MotoGP, Moto2, Moto3, and MotoE. Classes that have been discontinued include Formula 750, 500cc, 350cc, 250cc, 125cc, 80cc, 50cc and Sidecar. The Grand Prix Road-Racing World Championship was established in 1949 by the sport's governing body, the F\u00e9d\u00e9ration Internationale de Motocyclisme (FIM), and is the oldest motorsport World Championship.[1]\nThere were five classes when the championship started in 1949; 500cc, 350cc, 250cc, 125cc and sidecar (600cc). The 50cc class was introduced in 1962. Due to escalating costs that resulted in a number of manufacturers leaving the championship, the FIM limited the 50cc bikes to a single cylinder, the 125cc and 250cc...",
+        "url": "https://en.wikipedia.org/wiki/List_of_Grand_Prix_motorcycle_racing_World_Riders%27_Champions_by_year"
+      },
+      {
+        "source": "2022 MotoGP World Championship - Wikipedia",
+        "text": "Publication Year: 2024\nThe 2022 FIM MotoGP World Championship was the premier class of the 74th F.I.M.Road Racing World Championship season. Fabio Quartararo came into the season as the defending World Champion. Ducati secured the constructors' championship, with the factory Ducati Lenovo Team securing the teams' championship and factory rider Francesco Bagnaia achieving the riders' championship. In total, seven different riders and five manufacturers won Grands Prix during the season. As the only manufacturer without a victory, the season saw Honda finish in last place of the manufacturers' standings for the first time in the modern MotoGP era.\n Defending champion Fabio Quartararo took his first win of the season at Portugal, to take lead of the riders' standings.[5] In Jerez, Ducati rider Francesco Bagnaia...",
+        "url": "https://en.wikipedia.org/wiki/2022_MotoGP_World_Championship"
+      }
+    ]
+  },
+  {
+    "id": "EXT047",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "Who was the winner of American Idol this year?",
+    "reference_answer": "Abi Carter",
+    "evidence": [
+      {
+        "source": "The Complete List of 'American Idol' Winners | Entertainment Tonight",
+        "text": "Publication Year: 2024\nThe Complete List of 'American Idol' Winners\nThe Complete List of 'American Idol' Winners\nAmerican Idol is still going strong, finding the best voices from across the country and giving them a shot on the national stage. From season one winner Kelly Clarkson to country queen Carrie Underwood, click through the gallery to look back at all of the singers who have triumphed over their competition to be crowned the ultimate American Idol.\n1 / 22\nSeason 22: Abi Carter\nDisney/Eric McCandless\nAfter winning over the judges in her audition with an amazing rendition of Billie Eilish's \"What Was I Made For?,\" Abi Carter remained a fan-favorite throughout her run on season 22. Each of her performances in the season finale was met with overwhelming applause from the crowd, and she was brought to tears...",
+        "url": "https://www.etonline.com/gallery/the-complete-list-of-american-idol-winners-21116"
+      },
+      {
+        "source": "Who won 'American Idol'? Full list of former winners and runners-up",
+        "text": "Publication Year: 2024\nCarter, crowned on Sunday night, is the first woman to win in four seasons, with her telling \"Good Morning America\" on Tuesday that is what shocked her the most. One person who wasn't shocked, however, was judge Luke Bryan.\n \"After the finale, he said that he thinks it was the very first time that the person they thought was going to win actually did,\" she recalled, saying that sentiment \"touched me. \"\nRyan Seacrest and Abi Carter are seen on \"American Idol,\" on May 19, 2024.\n Eric Mccandless/Disney via Getty Images\nWhen asked to give advice to her younger self, Carter said, \"I would probably tell her that I'm proud of her and to keep going to piano lessons and to stop kicking and screaming when she has to go. \"\nCarter also addressed judge Katy Perry's exit after this season, saying...",
+        "url": "https://abcnews.go.com/GMA/Culture/won-won-american-idol-full-list-winners-runners-up/story?id=83063673"
+      },
+      {
+        "source": "American Idol season 22 - Wikipedia",
+        "text": "Publication Year: 2025\nAuditions\nThe Idol Across America virtual auditions program returned. Remote auditions took place from August 2 to September 8, 2023, as well as a number of open-call auditions, and from these, the producers selected the contestants who were then invited to audition in front of the judges.[5] Three locations were new, and selected due to them being hometowns of the judges: Leesburg (Bryan), Tuskegee (Richie), and Santa Barbara (Perry).[6]\nThe \"platinum ticket\" also returned from the previous two seasons. During the audition round, a total of three platinum tickets were awarded. The platinum ticket recipients were Odell Bunton Jr., Abi Carter, and Julia Gagnon.[7][8][9] Carter ended up becoming the first \"platinum ticket\" recipient to win the series.\n Hollywood week\nHollywood week was...",
+        "url": "https://en.wikipedia.org/wiki/American_Idol_season_22"
+      }
+    ]
+  },
+  {
+    "id": "EXT048",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "Who are the latest champions of the North America's oldest professional sports trophy?",
+    "reference_answer": "Montreal Canadiens",
+    "evidence": [
+      {
+        "source": "HHOF - Stanley Cup History",
+        "text": "Publication Year: 2023\nStanley Cup History\nThe Stanley Cup, notably the oldest trophy competed for by professional athletes in North America, was donated in 1892 by Sir Frederick Arthur Stanley, Lord Stanley of Preston and son of the Earl of Derby. He purchased the trophy for 10 Guineas ($50.00 at that time) to be presented to \"the championship hockey club of the Dominion of Canada.\" The first team ever awarded the Stanley Cup was the Montreal Amateur Athletic Association in 1893.\n Since 1910, when the National Hockey Association took possession of the Stanley Cup, the trophy has been symbolic of professional hockey supremacy. Beginning in 1926, only NHL teams have competed for this prized trophy.\n The Montreal Canadiens have won a record 23 Stanley Cups since the formation of the NHL (they also won in 1916),...",
+        "url": "https://www.hhof.com/thecollection/stanleycup_history.html"
+      },
+      {
+        "source": "Stanley Cup Finals - Wikipedia",
+        "text": "Publication Year: 2024\nFrom 1914 onwards, the Stanley Cup championship finals alternated between the East and the West each year, with alternating games played according to NHA and PCHA rules.[11] The Cup trustees agreed to this new arrangement, because after the Allan Cup became the highest prize for amateur hockey teams in Canada, the trustees had become dependent on the top two professional leagues to bolster the prominence of the trophy.[12] After the Portland Rosebuds, an American-based team, joined the PCHA in 1914, the trustees issued a statement that the Cup was no longer for the best team in Canada, but now for the best team in the world.[11] Two years later, the Rosebuds became the first American team to play in the Stanley Cup championship finals.[8] In 1917, the Seattle Metropolitans became the...",
+        "url": "https://en.wikipedia.org/wiki/Stanley_Cup_Finals"
+      },
+      {
+        "source": "10 Oldest Sports Trophies in the World - Laser Crystal",
+        "text": "5, after 150 years of crowded play at Musselburgh Old Course, the Royal Musselburgh moved to Prestongrange House at Prestonpans.\n America\u2019s Cup \u2013 1851, Isle of Wight, England\nThe America\u2019s Cup is the oldest international sporting trophy. The history of the trophy dates back to 1851 when a syndicate of businessmen from New York sailed the schooner America across the Atlantic Ocean and won a race around the Isle of Wight. The trophy would go to the young democracy of the United States and would be over 100 years before it was taken away from New York. The Cup is also known as Auld Mug and the history and prestige of the trophy attract the world\u2019s top sailors and yacht designers.\n Claret Jug (Golf Champion Trophy) \u20131873, Edinburgh, Scotland\nThe Claret Jug is presented to the winner of The...",
+        "url": "https://lasercrystal.co.uk/corporate-awards-news/10-oldest-sports-trophies-in-the-world/"
+      }
+    ]
+  },
+  {
+    "id": "EXT049",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "Where is the next Grand Prix?",
+    "reference_answer": "Melbourne, Australia",
+    "evidence": [
+      {
+        "source": "F1 Schedule 2024 - Official Calendar of Grand Prix Races",
+        "text": "Publication Year: 2024\n2024 FIA Formula One World Championship\nThe 2024 season was one of two halves. Max Verstappen and Red Bull dominated the first \u2013 winning seven of the first 10 Grands Prix \u2013 but then struggled in the second. In an incredibly competitive campaign, Mercedes, Ferrari and McLaren each saw both their drivers take multiple wins, but in the end no one could quite match Verstappen\u2019s class, the Dutchman clinching a fourth consecutive drivers\u2019 crown, as his nearest rival Lando Norris led McLaren to their first constructors\u2019 championship since 1998.",
+        "url": "https://www.formula1.com/en/racing/2024"
+      },
+      {
+        "source": "F1 Calendar - ESPN",
+        "text": "Publication Year: 2016\nESPN BET Sportsbook is owned and operated by PENN Entertainment, Inc. and its subsidiaries ('PENN'). ESPN BET is available in states where PENN is licensed to offer sports wagering. Must be 21+ to wager. If you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.",
+        "url": "https://www.espn.com/f1/schedule"
+      },
+      {
+        "source": "F1 schedule: When is the next race and where is it being held?",
+        "text": "F1 schedule: When is the next race and where is it being held?\nAlbert Park in Melbourne returns to the beginning of the Formula 1 calendar in the 2025 season.\n The F1 schedule has now reset for the 2025 season, with the record 24-race calendar for 2024 having now concluded.\n The drivers and teams will now rest, recover and prepare their new machinery in order to do it all again in 2025, with new drivers and personnel getting ready to do battle once more, with the scores put back to zero once more.\nWhich race is next on the F1 schedule?\n Round 1: Australian Grand Prix\n So long Formula 1\u2019s curtain-raiser before the Covid-19 pandemic curtailed the 2020 season, the Australian Grand Prix will open the calendar for the first time since 2019.\n For European fans of a certain vintage, setting the...",
+        "url": "https://www.planetf1.com/news/f1-schedule-next-race-calendar"
+      }
+    ]
+  },
+  {
+    "id": "EXT050",
+    "dataset_source": "qacc",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "how many us states currently use capital punishment?",
+    "reference_answer": "27",
+    "evidence": [
+      {
+        "source": "State by State - Death Penalty Information Center",
+        "text": "Publication Year: 2025\n\u00aded that the state\u2019s remain\u00ading death row pris\u00adon\u00aders must be resen\u00adtenced to life with\u00adout pos\u00adsi\u00adbil\u00adi\u00adty of parole.\n In March 2013, the Maryland leg\u00adis\u00adla\u00adture vot\u00aded to prospec\u00adtive\u00adly abol\u00adish the death penal\u00adty. The bill, signed into law in May 2013, left five men on the state\u2019s death row, one of whom sub\u00adse\u00adquent\u00adly died of nat\u00adur\u00adal caus\u00ades. On January 20, 2015, Governor Martin O\u2019Malley com\u00admut\u00aded the sen\u00adtences the four remain\u00ading death-row prisoners.\n On August 2, 2016, the Delaware Supreme Court held that the state\u2019s cap\u00adi\u00adtal sen\u00adtenc\u00ading pro\u00adce\u00addures were uncon\u00adsti\u00adtu\u00adtion\u00adal and struck down Delaware\u2019s death penal\u00adty statute. In December 2016, the court ruled that its deci\u00adsion applied to the 13 remain\u00ading pris\u00adon\u00aders on the state\u2019s death row. The leg\u00adis\u00adla\u00adture for\u00admal\u00adly...",
+        "url": "https://deathpenaltyinfo.org/state-and-federal-info/state-by-state"
+      },
+      {
+        "source": "Capital punishment in the United States - Wikipedia",
+        "text": "Publication Year: 2025\n2002, there were 4,661 executions in the United States; about two-thirds of them in the first 20 years.[40] Additionally, the United States Army executed 135 soldiers between 1916 and 1961 (the most recent).[41][42][43]\nThree states abolished the death penalty for murder during the 19th century: Michigan (which Only executed 1 prisoner and is the first government in the English-speaking world to abolish capital punishment)[44] in 1847, Wisconsin in 1853, and Maine in 1887. Rhode Island is also a state with a long abolitionist background, having repealed the death penalty in 1852, though it was available for murder committed by a prisoner between 1872 and 1984.\n Other states which abolished the death penalty for murder before Gregg v. Georgia include Minnesota in 1911, Vermont in 1964,...",
+        "url": "https://en.wikipedia.org/wiki/Capital_punishment_in_the_United_States"
+      },
+      {
+        "source": "State Summaries - Death Penalty Information Center",
+        "text": "Publication Year: 2025\nThe New Mexico Supreme Court vacat\u00aded those sen\u00adtences on June 28, 2019 and ordered the two pris\u00adon\u00aders be resen\u00adtenced to life in prison.\n In April 2012, the Connecticut leg\u00adis\u00adla\u00adture vot\u00aded to abol\u00adish the death penal\u00adty for future crimes. By its terms, the repeal law did not affect the sta\u00adtus of the 11 pris\u00adon\u00aders then on the state\u2019s death row. The Connecticut Supreme Court sub\u00adse\u00adquent\u00adly ruled in August 2015 that the death penal\u00adty vio\u00adlat\u00aded the state con\u00adsti\u00adtu\u00adtion. The Court reaf\u00adfirmed that hold\u00ading in May 2016 and reit\u00ader\u00adat\u00aded that the state\u2019s remain\u00ading death row pris\u00adon\u00aders must be resen\u00adtenced to life with\u00adout pos\u00adsi\u00adbil\u00adi\u00adty of parole.\n On August 2, 2016, the Delaware Supreme Court held that the state\u2019s cap\u00adi\u00adtal sen\u00adtenc\u00ading pro\u00adce\u00addures were uncon\u00adsti\u00adtu\u00adtion\u00adal and...",
+        "url": "https://deathpenaltyinfo.org/resources/high-school/state-by-state-data/state-summaries"
+      }
+    ]
+  },
+  {
+    "id": "EXT051",
+    "dataset_source": "freshqa",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "How many vehicle models does Tesla offer?",
+    "reference_answer": "4",
+    "evidence": [
+      {
+        "source": "A Quick Breakdown of Each Tesla Model - Prices and Features",
+        "text": "A Quick Breakdown of Each Tesla Model \u2013 Prices and Features\nTesla jump-started the transition from gas-powered vehicles to EVs. For those in the market for an electric vehicle, Tesla wows with the impressive range of its sedans and SUVs and Supercharger network.\n But even though it currently only has four models on the market, the company\u2019s disregard of model years can make picking which Tesla works best for you a bit confusing. Not to worry: We\u2019ve broken down each model to help determine if a vehicle from the house Musk built works for you.\n Tesla Model 3\nThe entry-level sedan of the Tesla lineup, the Model 3 combines EV power in a package smaller than the more expensive Model S.\nTesla Model 3 Price\nStarting Price: $39,990\nThe initial plan was to introduce a $35,000 Model 3. That trim...",
+        "url": "https://www.kbb.com/best-cars/a-quick-breakdown-of-each-tesla-model/"
+      },
+      {
+        "source": "2023 Tesla EV Lineup Compared: Prices And Range Of All Models",
+        "text": "2023 Tesla EV Lineup Compared: Prices And Range Of All Models\nThe manufacturer appears to be focusing on affordability.\n With the recent introduction of the Standard Range Model S and Model X, Tesla expanded its four-model lineup to 12 versions. The number increases to 22 if we include wheel options, which directly affect the driving range.\n When we research Tesla's offer, it appears that the company is especially active in improving the affordability of the cars. Price reductions are one thing, but another one is the new base versions - LFP-powered Model 3, entry-level Model Y (with 4680-type battery cells), and most recently the software-limited Model S/Model X Standard Range.\n Price-wise, especially when deducting the $7,500 federal tax credit available for the Model 3/Model Y, the...",
+        "url": "https://insideevs.com/news/683521/2023-tesla-electric-cars-compared-prices-range/"
+      }
+    ]
+  },
+  {
+    "id": "EXT052",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Can detox diets help in weight loss?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Detox Diets: Do They Work? Are They Healthy?",
+        "text": "Limitations: You're going to go without a lot of the foods you usually eat. Detox diets are typically very rigid and involve eating the same few things over and over.\nCooking and shopping: Depends on the detox plan you're following. Because there's not a lot you're allowed to eat, you won't have a long shopping list and prep work should be minimal.\n Packaged foods or meals: Some detox plans recommend herbs, pills, powders, enemas, and other forms of colon cleansing. Methods vary and often include products that are only available from the author\u00e2\u0080\u0099s web site.\n In-person meetings? No.\nExercise: Not required, and you may not have the energy for it, because you're not getting that many calories.\n What Else You Should Know\nCosts: Besides your grocery shopping, a detox diet may also call for...",
+        "url": "https://www.webmd.com/diet/a-z/detox-diets"
+      },
+      {
+        "source": "How To Detox Your Body To Lose Weight? According To Experts",
+        "text": "How To Detox Your Body To Lose Weight? According To Experts\nHow to detox your body to lose weight? Detoxing your body can be an effective way to lose weight and help with overall health.\n Detoxing can help with weight loss. Photo: Shutterstock & Team Design\nDetoxification has gained popularity as a method for weight loss and overall well-being. In today\u2019s fast-paced and toxin-filled world, many people are seeking ways to rid their bodies of harmful substances and jumpstart their weight loss journey.\n While there is an ongoing debate among experts about the necessity and effectiveness of detox diets, incorporating certain practices can support your body\u2019s natural detoxification processes and potentially aid in shedding unwanted pounds. Understanding the principles behind detoxification and...",
+        "url": "https://nchc.org/nutrition/detox/how-to-detox-your-body-to-lose-weight/"
+      },
+      {
+        "source": "Do Detox Diets and Cleanses Work? | NIH News in Health",
+        "text": "Site Menu\nDo Detox Diets and Cleanses Work?\nAre you thinking of trying a \u201cdetox\u201d or cleanse? They claim to help you lose weight or rid your body of toxins. After a winter of holiday eating, they might seem like a way to kickstart better habits in the new year. But are these trendy programs and products healthy or just a bunch of hype?\n\u201cDetoxes\u201d aren\u2019t all the same. Some involve fasting, followed by eating only certain foods. You may be limited to drinking only juices or liquids. Some include dietary supplements or herbs. They can involve cleansing the colon, or lower intestinal tract, with enemas and laxatives.\n Are they effective? There aren\u2019t many high-quality studies of detox programs and cleanses. In 2015, a team of experts concluded that results so far don\u2019t support the use of detox...",
+        "url": "https://newsinhealth.nih.gov/2021/12/do-detox-diets-cleanses-work"
+      }
+    ]
+  },
+  {
+    "id": "EXT053",
+    "dataset_source": "situated_qa_temp",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "how many students attend university of texas at austin",
+    "reference_answer": "51,913",
+    "evidence": [
+      {
+        "source": "Facts & Figures | University of Texas at Austin",
+        "text": "Change the World\nLonghorns are passionate about making the world a better place, united by the belief that creating and sharing knowledge can save lives and transform society. Come explore our vast research enterprise \u2014 or better yet, create, innovate and discover with us.\n *Black includes both \u201cBlack or African American Alone\u201d and \u201cBlack or African American Multiracial (excluding Hispanic)\u201d. *Students are classified as \u201cInternational\u201d if they are not U.S. citizens or U.S. permanent residents.\n Academics\nUndergraduate degree programs: 156\nUndergraduate fields of study: 170+\nGraduate degree programs: 139 (237 including doctoral)\nCourses: 12,400+\nStudy abroad programs: 400\nCountries hosting education abroad students: 102\nFulbright Students and Scholars: 1,007\nRhodes Scholars: 31\nMarshall...",
+        "url": "https://www.utexas.edu/about/facts-and-figures"
+      },
+      {
+        "source": "University of Texas at Austin - Wikipedia",
+        "text": "Publication Year: 2025\nIn addition, the university has nine honors programs, eight of which span a variety of academic fields: Liberal Arts Honors, the Business Honors Program, the Turing Scholars Program in Computer Science, Engineering Honors, the Dean's Scholars Program in Natural Sciences, the Health Science Scholars Program in Natural Sciences, the Polymathic Scholars Program in Natural Sciences, and the Undergraduate Nursing Honors Program in School of Nursing. The ninth is the Plan II Honors Program, a rigorous interdisciplinary program that is a major in and of itself.[112] Many Plan II students pursue a second major, often participating in another department's honors program in addition to Plan II.[113] The university also offers programs such as the Freshman Research Initiative and Texas...",
+        "url": "https://en.wikipedia.org/wiki/University_of_Texas_at_Austin"
+      },
+      {
+        "source": "The University of Texas at Austin | Data USA",
+        "text": "Publication Year: 2020\nTexas at Austin is 49,081 students and the part-time enrollment is 3,303. This means that 93.7% of students enrolled at The University of Texas at Austin are enrolled full-time.\n The enrolled student population at The University of Texas at Austin, both undergraduate and graduate, is 34.6% White, 24.8% Hispanic or Latino, 21.1% Asian, 4.35% Black or African American, 3.61% Two or More Races, 0.0954% American Indian or Alaska Native, and 0.0535% Native Hawaiian or Other Pacific Islanders.\n Students enrolled at The University of Texas at Austin in full-time Undergraduate programs are most commonly White Female (18.9%), followed by Hispanic or Latino Female (17.4%) and White Male (13.8%). Students enrolled in full-time Graduate programs are most commonly White Female (20.6%), followed by...",
+        "url": "https://datausa.io/profile/university/the-university-of-texas-at-austin"
+      }
+    ]
+  },
+  {
+    "id": "EXT054",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "when was christianity became the official religion",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Christianity as the Roman state religion - Wikipedia",
+        "text": "They will suffer in the first place the chastisement of the divine condemnation and in the second the punishment of our authority which in accordance with the will of Heaven we shall decide to inflict.\n \u2014 Edict of Thessalonica\nIn 391, Theodosius closed all the \"pagan\" (non-Christian and non-Jewish) temples and formally forbade pagan worship.[47]\n Late antiquity\nChanges in extent of the Empire ruled from Constantinople. 476 End of the Western Empire; 550 Conquests of Justinian I; 717 Accession of Leo the Isaurian; 867 Accession of Basil I; 1025 Death of Basil II; 1095 Eve of the First Crusade; 1170 Under Manuel I; 1270 Under Michael VIII Palaiologos; 1400 Before the fall of Constantinople\nAt the end of the 4th century the Roman Empire had effectively split into two parts although their...",
+        "url": "https://en.wikipedia.org/wiki/Christianity_as_the_Roman_state_religion"
+      },
+      {
+        "source": "The alliance between church and empire - Christianity - Britannica",
+        "text": "Constantine completely altered the relationship between the church and the imperial government, thereby beginning a process that eventually made Christianity the official religion of the empire. Many new converts were won, including those who converted only with the hope of advancing their careers. The church was also faced by a new form of governmental interference when Constantine presided at the Council of Nicaea, which addressed the Arian controversy (a debate between Arius and Athanasius and their followers over the nature of the Son of God); the council provided the definition of the relationship between God the Father and God the Son that is still accepted by most Christians today. Although Nicaea spoke against Arianism, which maintained that the Son is a created being and not...",
+        "url": "https://www.britannica.com/topic/Christianity/The-alliance-between-church-and-empire"
+      },
+      {
+        "source": "Christianity becomes the religion of the Roman Empire - DW",
+        "text": "Categories\nChristianity becomes the religion of the Roman Empire - February 27, 380\n11/16/2009November 16, 2009\nThe decree of the Eastern Roman Emperor Theodosius I had far-reaching consequences: It bound the Judeo-Christian roots of the European continent to Greco-Roman culture.\n https://p.dw.com/p/JJNY\nA coin showing Theodosius IImage: picture-alliance / akg-images\nAdvertisement\nUntil the Council of Nicaea in 325, Christians were persecuted, churches set ablaze and their wealth confiscated. The persecution of Christians peaked under the rule of Emperor Diocletian (ca. 245 - 316). He wanted to revive old pagan cults and make them into a kind of state religion. But his anti-Christian policies failed and were revoked under one of his successors, Emperor Constantine I (ca. 285 - 337).\n In...",
+        "url": "https://www.dw.com/en/christianity-becomes-the-religion-of-the-roman-empire-february-27-380/a-4602728"
+      }
+    ]
+  },
+  {
+    "id": "EXT055",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Does yoga help increase height?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Can Yoga Increase Your Height? What It Can and Can't Do",
+        "text": "Doing yoga won\u2019t increase your skeletal height, which for the most part, won\u2019t increase after age 20.\nGenetics, lifestyle factors, and nutrition determine your height. Even if you manage to slightly increase your height by reducing compression of the discs in your spine, the change will be negligible and can vary during the day depending on your activities.\n Yoga supports good posture\nHowever, yoga can build muscular strength, which supports good posture. You may appear and feel taller after you elongate your spine and improve your posture.\n Maintaining a more upright position may raise your body a few inches. You may especially feel this extension in your upper body, though your lower body still plays a part.\n Yoga cultivates breath awareness\nPracticing yoga helps to cultivate breath...",
+        "url": "https://www.healthline.com/health/yoga-to-increase-height"
+      },
+      {
+        "source": "Practice these 5 yoga asanas to increase height | HealthShots",
+        "text": "The height of a human depends on genetic and non genetic factors but there are some yoga asanas to increase height that can also help.\n Who doesn\u2019t want a good height? It\u2019s true that a person\u2019s height depends on genetic as well as non-genetic factors such as environmental conditions and nutrition, but being physically active also contributes to a good height. In fact, you can try certain yoga asanas to increase height even after puberty by practicing them regularly.\n Yes, yoga can help get those few inches because yoga poses help stretch your body and back, which ultimately improves your posture. To help you, Health Shots got in touch with Grand Master Akshar, yoga master, spiritual guru, and lifestyle coach.\n How yoga can help increase height\nAkshar says, \u201cThe practice of yoga is known...",
+        "url": "https://www.healthshots.com/how-to/practice-these-5-yoga-asanas-to-increase-height/"
+      },
+      {
+        "source": "Can Yoga Make You Taller? \u2014 Men's Yoga Journal",
+        "text": "How Yoga Can Kind of Increase Your Height\nIf you have a little bit more time on your hands, keep reading. You\u2019ll go on an extensive deep dive into how yoga can potentially improve not only your posture, helping you stand taller, but also boost your self-confidence and overall body awareness.\n Height = Dominance\nAcross cultures and societies, people who are taller in stature are considered more socially influential, more likely to succeed and more desirable. But why?\nWell, it all comes down to the fact that taller people are often more dominant, have higher self-esteem, and are more likely to be the victor in a confrontation or competition. Something that served our ancestors well when it was a matter of life or death.\n Although we don\u2019t find ourselves in situations where we need to fight...",
+        "url": "https://www.mensyogajournal.com/blog/can-yoga-make-you-taller"
+      }
+    ]
+  },
+  {
+    "id": "EXT056",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "Conflict due to outdated information",
+    "expected_conflict_type": "temporal_conflict",
+    "scored": true,
+    "question": "total number of cafe coffee day",
+    "reference_answer": "450",
+    "evidence": [
+      {
+        "source": "Caf\u00e9 Coffee Day - Wikipedia",
+        "text": "Caf\u00e9 Coffee Day (CCD) is an Indian multinationalchain of coffeehouses headquartered in Bengaluru, Karnataka. It is a subsidiary of Coffee Day Enterprises Limited. Internationally, CCD is present in Austria, Czech Republic, Malaysia, Nepal and Egypt.\n History\nCaf\u00e9 Coffee Day Global Limited Company is a Chikkamagaluru-based business which grows coffee in its own estates of 20,000 acres.[5] It is the largest producer of arabica beans in Asia, exporting to various countries including U.S., Europe, and Japan.[6]\nV. G. Siddhartha started the caf\u00e9 chain in 1996 when he incorporated Coffee Day Global, which is the parent of the Coffee Day chain.[7] The first CCD outlet was set up on July 11, 1996, at Brigade Road, Bangalore, Karnataka. It rapidly expanded to other cities in India, with more than...",
+        "url": "https://en.wikipedia.org/wiki/Caf%C3%A9_Coffee_Day"
+      },
+      {
+        "source": "Number of Cafe Coffee Day locations in India in 2023 - ScrapeHero",
+        "text": "Number of Cafe Coffee Day stores in India in 2023\nHow many Cafe Coffee Day stores are there in India?\n There are 1,384 Cafe Coffee Day stores in India as of February 21, 2023. The state and territory with the most number of Cafe Coffee Day locations in India is Maharashtra, with 259 stores, which is about 19% of all Cafe Coffee Day stores in India.\n You can download the full list of Cafe Coffee Day locations used for this analysis\nfrom\nour data\nstore.\n Here is\na random sample of 10 records for you to look at the\nfields\nand the data that\nwe\nprovide.\n * Open hours are not displayed here as it is too big to show on a\nreasonably\nsized screen.\n Download this data in any format\nWe provide all of our data sets as an Excel / CSV file. Please contact us if you need this POI\ndataset as JSON, Esri...",
+        "url": "https://www.scrapehero.com/location-reports/Cafe%20Coffee%20Day-India/"
+      },
+      {
+        "source": "Number of Cafe Coffee Day cafes India FY 2014-2023 - Statista",
+        "text": "Statista R identifies and awards industry leaders, top providers, and exceptional brands through exclusive rankings and top lists in collaboration with renowned media brands worldwide.\n For more details, visit our website.\n Number of Cafe Coffee Day cafes India FY 2014-2023\nIn the financial year 2023, cafe chain Cafe Coffee Day had about 469 cafes across various cities in India. Cafe Coffee Day outlets were present in about 154 cities in the country that same year.\n First outlet of Cafe Coffee Day\nCafe Coffee Day, popularly known as CCD, was set up in 1996 at Brigade Road, Bangalore, Karnataka. The location was situated ideally amidst the busiest and biggest shopping areas of the southern city, making it a frequented and therefore, a success. While Cafe Coffee Day grew to expand across...",
+        "url": "https://www.statista.com/statistics/1030744/india-cafe-coffee-day-cafe-numbers/"
+      }
+    ]
+  },
+  {
+    "id": "EXT057",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Is online learning as effective as traditional classroom learning?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Online Education vs Traditional Education - Which One is Better?",
+        "text": "Educational institutes have been practicing the traditional teaching method since ages. Most of us are familiar with the traditional model where one teacher is teaching fifty students at a time.\n No one knows if those fifty students are able to understand what is being explained or if they are even paying attention to the lecture. This style of teaching is not considered very effective today.\n Students have access to new technology which helps them learn and retain information in a far better manner. Which means, it is time for educational institutes to bring some changes to its teaching methods. A popular alternative to traditional education is online education or eLearning.\n Online education is better than traditional education, debates the most significant element of the online...",
+        "url": "https://kitaboo.com/is-online-education-better-than-traditional-education/"
+      },
+      {
+        "source": "Online Learning: 6 Reasons Why It Can Be Effective - eLearning ...",
+        "text": "6 Reasons Why Online Learning Can Be More Effective Than Enrolling In A Face-To-Face Training\nSummary:\neLearning has revolutionized education in both schools and businesses. Online learning will play a significant role in future education.\n Learning Is About Engaging Your Learner\neLearning has revolutionized education in both schools and businesses, allowing students and employees to learn at their own pace in a comfortable atmosphere. When it comes to the transmission of learning materials, it's apparent that eLearning will play a significant role in the future of education. Here are 6 reasons why online learning can be more effective than enrolling in a face-to-face training course:\n1. Students Gain More Knowledge Than In Standard Classes\n According to IBM, students in online learning...",
+        "url": "https://elearningindustry.com/reasons-why-online-learning-can-be-more-effective-than-enrolling-in-face-to-face-training"
+      },
+      {
+        "source": "Is online education as effective as traditional on-campus schooling?",
+        "text": "Is online education as effective as traditional on-campus schooling?\n Today, more over 6 million students are enrolled in at least one online course, as one recent distance education study shows, and although this format represents a different experience than the traditional on-campus schooling, it is an option that continues to gain traction, especially among non-traditional adult learners and a busy workforce. However, with this increased popularity, a question has risen on whether online education is effective in getting students the information they need to earn their degrees, elevate their careers, and even advance to the next phase of academia.\n If you\u2019re considering an online degree or are taking at least a few for-credit online courses, there\u2019s good news. According to a recent MIT...",
+        "url": "https://www.utep.edu/extendeduniversity/utepconnect/blog/november-2018/is-online-education-as-effective-as-traditional-on-campus-schooling.html"
+      }
+    ]
+  },
+  {
+    "id": "EXT058",
+    "dataset_source": "situated_qa_geo",
+    "original_conflict_type": "No conflict",
+    "expected_conflict_type": "no_conflict",
+    "scored": true,
+    "question": "who signed the declaration of independence",
+    "reference_answer": "56 delegates to the Continental Congress",
+    "evidence": [
+      {
+        "source": "Signing of the United States Declaration of Independence - Wikipedia",
+        "text": "The final draft of the Declaration was approved by the Continental Congress on July 4, although the date of its signing has long been disputed. Most historians have concluded that it was signed on August 2, 1776, nearly a month after its adoption, and not on July 4 as is commonly believed.\n Date of signing\nThe Second Continental Congress adopted the Declaration of Independence on July 4, 1776, with 12 of the 13 colonies voting in favor and New York abstaining. The date that the Declaration was signed has long been the subject of debate. Thomas Jefferson, Benjamin Franklin, and John Adams all wrote that it was signed by Congress on the day when it was adopted on July 4, 1776.[1] That assertion is seemingly confirmed by the signed copy of the Declaration, which is dated July 4. Additional...",
+        "url": "https://en.wikipedia.org/wiki/Signing_of_the_United_States_Declaration_of_Independence"
+      },
+      {
+        "source": "Who signed the Declaration of Independence?",
+        "text": "Who signed the Declaration of Independence?\n56 delegates to the Continental Congress signed the engrossed Declaration of Independence. Most of the signers voted in favor of independence on July 2nd. Some delegates who voted for independence did not sign the Declaration, and some signers were not delegates to Congress at the time of the vote.\n The 56 Signers of the Declaration of Independence are (in alphabetical order):",
+        "url": "https://declaration.fas.harvard.edu/faq/who-signed-declaration-independence"
+      }
+    ]
+  },
+  {
+    "id": "EXT059",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Complementary information",
+    "expected_conflict_type": "ambiguous_question",
+    "scored": true,
+    "question": "Are somatic mutations passed to offspring?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "Inheritance of somatic mutations by animal offspring",
+        "text": "Abstract\nSince 1892, it has been widely assumed that somatic mutations are evolutionarily irrelevant in animals because they cannot be inherited by offspring. However, some nonbilaterians segregate the soma and germline late in development or never, leaving the evolutionary fate of their somatic mutations unknown. By investigating uni- and biparental reproduction in the coral Acropora palmata (Cnidaria, Anthozoa), we found that uniparental, meiotic offspring harbored 50% of the 268 somatic mutations present in their parent. Thus, somatic mutations accumulated in adult coral animals, entered the germline, and were passed on to swimming larvae that grew into healthy juvenile corals. In this way, somatic mutations can increase allelic diversity and facilitate adaptation across habitats and...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36044584/"
+      },
+      {
+        "source": "Corals pass mutations acquired during their lifetimes to offspring ...",
+        "text": "State and the California Institute of Technology co-lead author of the study.\n The research team genotyped samples -- using a high-resolution molecular tool called a microarray to investigate DNA differences between the samples -- from ten different locations on a large Elkhorn coral colony that had produced single-parent offspring, and samples from five neighboring colonies at nearly 20,000 genetic locations. The results showed that all six of the separate coral colonies belonged to the same original coral genotype (known as a \"genet\"), meaning essentially that they were clones derived from a single original colony through asexual reproduction and colony fragmentation. Thus, any genetic variation found in these corals would have been the result of somatic mutation. The team found a total...",
+        "url": "https://www.sciencedaily.com/releases/2022/08/220831152728.htm"
+      },
+      {
+        "source": "Mutation",
+        "text": "\u200bMutation\nDefinition\nA mutation is a change in the DNA sequence of an organism. Mutations can result from errors in DNA replication during cell division, exposure to mutagens or a viral infection. Germline mutations (that occur in eggs and sperm) can be passed on to offspring, while somatic mutations (that occur in body cells) are not passed on.\nNarration\nMutation. Mutations are happening in our cells all the time, but almost none of these affect our health. This is very different than what we often see in science fiction in movies. In real life, a mutation is never so beneficial that it turns a person into a superhero or does something bizarre like cause them to grow wings. There are many reasons that mutations usually don't have major consequences. One reason is that our cells have very...",
+        "url": "https://www.genome.gov/genetics-glossary/Mutation"
+      }
+    ]
+  },
+  {
+    "id": "EXT060",
+    "dataset_source": "conflicting_qa",
+    "original_conflict_type": "Conflicting opinions and research outcomes",
+    "expected_conflict_type": "direct_factual_conflict",
+    "scored": true,
+    "question": "Does every startup need a business plan?",
+    "reference_answer": " ",
+    "evidence": [
+      {
+        "source": "How to Start a Startup in 9 Easy Steps | The Hartford",
+        "text": "How to Start a Startup\n9 Steps to Help You Start a Startup\nIf you\u2019ve never started a business, the first time can be a little scary. Especially because it takes a lot of hard work and planning. On top of this, only about half of all businesses survive five years or longer.1\n1. Start with a Great Idea\nYour first step in learning how to start a business is to identify a problem and solution. This is because successful startups begin from business ideas that fill the needs of a group of customers. But your idea doesn\u2019t always have to be a new one. You can update existing products or services in a way that\u2019s better for the consumer. This can be as simple as:\nChanging the product\u2019s appearance\nAdding a new feature\nFinding a new use for a product that customers already love\nFor instance, Apple...",
+        "url": "https://www.thehartford.com/business-insurance/strategy/how-to-start-a-business/startup"
+      },
+      {
+        "source": "11 Things Every Startup Needs to Include in Their First Business Plan",
+        "text": "\"A business plan is a road map that increases your chances to travel long distances and decreases the odds of getting lost along the way. \"\nWhat is the business planning cycle of startups?\n The business planning cycle of startups follows a particular set of parts required for the formation and content curation of the business plan.\n The business planning cycle can be divided into three primary parts:\nBusiness concept\nMarketplace concept\nFinancial concept\nLet's discuss these concepts in brief:\n1. In business concept, the startups look forward to discussing and plan about the following:\nIndustry\nBusiness structure\nProduct or services that they look forward to launching in the market,\nHow they look forward to planning to make the business success\n2. In marketplace concept, the startups look...",
+        "url": "https://www.deskera.com/blog/11-things-for-first-business-plan/"
+      },
+      {
+        "source": "How to Write a Startup Business Plan | Wrike",
+        "text": "Doing this allows them to make changes quickly without wasting resources on something no one wants.\n The goal is not to build an extensive business plan but rather a \"lean\" one that can be changed based on customer feedback and then re-evaluated in regular intervals until it reaches market potential \u2014 or fails.\n A lean startup business plan is a strategy that focuses on getting a product in front of customers as quickly and cheaply as possible. Use the lean startup business plan to validate your ideas before wasting time and resources.\n Why do you need a small startup business plan?\n A small startup business plan is one of the most important steps in building a company. Apart from helping you to focus on company goals, it aids in obtaining feedback from potential partners and keeps the...",
+        "url": "https://www.wrike.com/blog/12-steps-to-a-startup-business-plan-infographic/"
+      }
+    ]
+  }
+]

@@ -423,6 +423,35 @@ def render_evaluation_tab():
         with st.expander("Hand-crafted development set (one case per category)"):
             st.json(small_eval)
 
+    external = load_json_if_exists(RESULTS_DIR / "external_conflicts_metrics.json")
+    if external:
+        st.subheader("External Evaluation (rag_conflicts benchmark)")
+        st.caption(
+            "A held-out sample from Google Research's rag_conflicts dataset, run through "
+            "app/evaluation/external_conflicts_runner.py. Labels are mapped onto "
+            "ConflictGuard's taxonomy where a defensible mapping exists; see "
+            "data/benchmarks/build_external_sample.py for details."
+        )
+
+        cols = st.columns(4)
+        cols[0].metric("Conflict-Type Accuracy", f"{external['conflict_type_accuracy'] * 100:.1f}%")
+        cols[1].metric("Macro F1", f"{external['macro_f1']:.3f}")
+        cols[2].metric("Abstain Rate", f"{external['abstain_rate'] * 100:.1f}%")
+        cols[3].metric("Avg Latency", f"{external['average_latency_seconds']:.1f}s")
+
+        st.caption(
+            f"{external['scored_cases']} scored cases, "
+            f"{external['unscored_cases']} unscored (no taxonomy equivalent) out of "
+            f"{external['total_cases']} total"
+        )
+
+        if external.get("per_category"):
+            st.dataframe(pd.DataFrame(external["per_category"]).T, width="stretch")
+
+        with st.expander("Unscored cases and full details"):
+            st.caption(external.get("unscored_note", ""))
+            st.json(external.get("unscored_predicted_distribution", {}))
+
     security = load_json_if_exists(RESULTS_DIR / "heldout_metrics.json")
     if security:
         with st.expander("Security guardrail evaluation (prompt-injection detection)"):

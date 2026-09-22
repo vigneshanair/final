@@ -13,3 +13,5 @@ env/
 
 *.chroma/
 chroma.sqlite3
+
+data/benchmarks/conflicts.jsonl

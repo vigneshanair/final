@@ -113,6 +113,36 @@ On the 42-case held-out benchmark, the multi-agent pipeline reaches ~98%
 conflict-type accuracy versus ~52% for the single-agent baseline — see the
 dashboard's Evaluation Results tab for the full breakdown.
 
+### External evaluation
+
+The proposal's methodology calls for a second, external dataset to test how
+well the approach generalizes beyond the hand-authored policy documents.
+`data/test_cases/external_conflicts_sample.json` is a 60-case stratified
+sample of [google-research-datasets/rag_conflicts](https://github.com/google-research-datasets/rag_conflicts),
+a benchmark of real web-search results with human-labeled conflict types.
+
+That dataset's own labels don't map one-to-one onto ConflictGuard's
+taxonomy, so the sample was built with an explicit mapping (see
+`data/benchmarks/build_external_sample.py`): three labels map directly,
+`Complementary information` splits into `ambiguous_question` or
+`conditional_conflict` depending on whether the dataset gives a single
+correct answer, and `Conflict due to misinformation` (5 cases) has no
+taxonomy equivalent — it's about factual truth, not evidence disagreement
+— so those cases are run and reported, but excluded from the accuracy
+metric.
+
+To rebuild the sample or run the evaluation:
+
+```bash
+curl -L -o data/benchmarks/conflicts.jsonl \
+    https://raw.githubusercontent.com/google-research-datasets/rag_conflicts/refs/heads/main/conflicts.jsonl
+python data/benchmarks/build_external_sample.py     # regenerates the sample (optional, already checked in)
+python -m app.evaluation.external_conflicts_runner  # writes results/external_conflicts_metrics.json
+```
+
+`conflicts.jsonl` itself (45 MB) is not checked into the repo — only the
+much smaller derived sample is.
+
 ## Manual test scripts
 
 The `test_*.py` scripts at the repo root exercise individual agents and
