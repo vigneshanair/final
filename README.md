@@ -143,6 +143,13 @@ python -m app.evaluation.external_conflicts_runner  # writes results/external_co
 `conflicts.jsonl` itself (45 MB) is not checked into the repo — only the
 much smaller derived sample is.
 
+Accuracy on this external set (25%) is much lower than on the internal
+benchmark (98%) — expected, and analyzed in detail in
+[`results/EXTERNAL_EVALUATION_ANALYSIS.md`](results/EXTERNAL_EVALUATION_ANALYSIS.md),
+which traces the drop to two specific rule thresholds that don't generalize
+from structured policy documents to free-form web text, with case-by-case
+examples.
+
 ## Manual test scripts
 
 The `test_*.py` scripts at the repo root exercise individual agents and
