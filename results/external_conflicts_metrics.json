@@ -1,0 +1,86 @@
+{
+  "total_cases": 60,
+  "scored_cases": 55,
+  "unscored_cases": 5,
+  "conflict_type_accuracy": 0.2545,
+  "macro_precision": 0.2128,
+  "macro_recall": 0.2143,
+  "macro_f1": 0.1818,
+  "abstain_rate": 0.0167,
+  "verified_rate": 0.7833,
+  "average_latency_seconds": 51.5896,
+  "per_category": {
+    "Complementary information": {
+      "total": 19,
+      "conflict_type_accuracy": 0.1579
+    },
+    "Conflict due to outdated information": {
+      "total": 12,
+      "conflict_type_accuracy": 0.25
+    },
+    "Conflicting opinions and research outcomes": {
+      "total": 12,
+      "conflict_type_accuracy": 0.6667
+    },
+    "No conflict": {
+      "total": 12,
+      "conflict_type_accuracy": 0.0
+    }
+  },
+  "classification_report": {
+    "ambiguous_question": {
+      "precision": 0.3333333333333333,
+      "recall": 0.08333333333333333,
+      "f1-score": 0.13333333333333333,
+      "support": 12.0
+    },
+    "conditional_conflict": {
+      "precision": 0.5,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.36363636363636365,
+      "support": 7.0
+    },
+    "direct_factual_conflict": {
+      "precision": 0.2857142857142857,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.4,
+      "support": 12.0
+    },
+    "insufficient_evidence": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 0.0
+    },
+    "no_conflict": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 12.0
+    },
+    "temporal_conflict": {
+      "precision": 0.15789473684210525,
+      "recall": 0.25,
+      "f1-score": 0.1935483870967742,
+      "support": 12.0
+    },
+    "accuracy": 0.2545454545454545,
+    "macro avg": {
+      "precision": 0.21282372598162072,
+      "recall": 0.21428571428571427,
+      "f1-score": 0.18175301401107855,
+      "support": 55.0
+    },
+    "weighted avg": {
+      "precision": 0.23315105946684894,
+      "recall": 0.2545454545454545,
+      "f1-score": 0.2048733671021061,
+      "support": 55.0
+    }
+  },
+  "unscored_note": "\"Conflict due to misinformation\" cases have no equivalent in ConflictGuard's conflict-structure taxonomy (they concern factual truth, not evidence disagreement) and are excluded from the accuracy metrics above. Their predicted conflict-type distribution is reported here for qualitative review only.",
+  "unscored_predicted_distribution": {
+    "direct_factual_conflict": 4,
+    "ambiguous_question": 1
+  }
+}
